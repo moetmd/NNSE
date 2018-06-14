@@ -1,0 +1,116 @@
+第三届 “ 三走 ” 活动 之 “ 爱 我 中华民族 风 ” 少数民族 运动 项目 体验 营 落幕 【 宁夏大学 新闻 中心 讯   体育 学院   胡萌 】 6 月 5 日 ， 由 校团委 主办 ， 体育 学院 团委 、 学生会 承办 的 校 第三届 “ 三走 ” 系列 活动 之 “ 爱 我 中华民族 风 ” 少数民族 体育运动 项目 体验 营 活动 在 文萃 校区 、 怀远 校区 田径场 举行 。 全校 各 学院 共计 一千余名 同学 参加 了 比赛 和 体验 环节 。 
+ 本次 活动 分为 上午 赛前 体验 和 下午 正式 比赛 两个 环节 。 上午 赛前 体验 设计 了 包括 “ 板鞋 竞速 ” 、 “ 押加 ” 、 “ 投 花炮 ” 、 “ 蹴球 ” 等 十一个 既 具有 趣味性 又 极富 民族特色 的 体验 项目 ， 下午 正式 比赛 设计 了 角斗士 、 滚 铁环 等 六个 项目 。 这些 运动 项目 不 受 年龄 与 性别 的 限制 ， 是 比较 典型 的 群众性 民族 体育运动 项目 ， 深受 师生 的 喜爱 。 操场上 处处 洋溢着 欢声笑语 ， 同学 们 跃跃欲试 ， 乐在其中 。 大家 在 参与 少数民族 体育运动 项目 的 同时 ， 也 加深 了 对 少数民族 文化 的 了解 。 
+ 
+ 
+ 
+ 此次 活动 突出 了 我校 西部 民族 地区 高校 特色 ， 已 成为 我校 “ 三走 ” 活动 的 品牌 项目 ， 通过 体育锻炼 与 少数民族 文化 推广 相结合 的 方式 ， 引导 各 民族 大学生 树立 阳光 生活 理念 ， 养成 健康 的 生活 方式 ， 培育 奋发向上 的 精神风貌 ， 促进 各 民族 学生 在 参与 少数民族 传统 体育运动 项目 中 传承 文化 、 加强 交流 、 增进友谊 ， 对于 倡导 民族团结 、 促进 民族 和谐 具有 重要 意义 。 
+   
+                 
+                 上 一条 ： 自治区 党委 统战工作 领导小组 调研 检查组 到 我校 调研 检查 
+ 
+                 下 一条 ： 国家 科技 支撑 计划 项目 “ 西部 生态 城镇 与 绿色 建筑 技术 集成 研究 与 工程 示范 ” 验收 会 在 宁夏 举行 
+         
+         
+                 function   dosubc42633 ( ) 
+                 { 
+                         try { 
+                                 var   ua   =   navigator . userAgent . toLowerCase ( ) ; 
+                                 if ( ua . indexOf ( " msie   8 " ) > - 1 ) 
+                                 { 
+                                         window . external . AddToFavoritesBar ( document . location . href , document . title , " " ) ; / / IE8 
+                                 } else { 
+                                         if   ( document . all )   
+                                         { 
+                                                 window . external . addFavorite ( document . location . href ,   document . title ) ; 
+                                         } else   if ( window . sidebar ) 
+                                         { 
+                                                 window . sidebar . addPanel (   document . title ,   document . location . href ,   " " ) ; / / firefox 
+                                         } 
+                                 } 
+                 
+                         } 
+                         catch   ( e ) { alert ( " 无法 自动 添加 到 收藏夹 ， 请 使用   Ctrl   +   d   手动 添加 " ) ; } 
+                 } 
+               【 打印 】 
+                               
+ function   printme ( ) 
+ { 
+ document . body . innerHTML = document . getElementById ( ' div1 ' ) . innerHTML ; 
+ window . print ( ) ; 
+ } 
+ 
+                     【 收藏 】     【 关闭 】 
+ 
+ 
+ 
+ 
+ 
+ 
+   新闻网 
+         
+   信息 门户 
+         
+   科研 平台 
+         
+   学工 系统 
+         
+   本科 招生 
+         
+   教务 系统 
+         
+   校园 宣传 审批 系统 
+         
+   网络服务 
+         
+   校友网 
+         
+   邮箱 登陆 
+         
+   站 群 检索 
+         
+ 
+ 
+ 
+ 地址 ： 宁夏 银川市 西夏区 贺兰山 西路 489 号 　 邮编 ： 750021     电话 ： 0951 - 2077800   宁 ICP 备 05002185     Copyright   ©   宁夏大学     技术支持 ： 网络 与 信息管理 中心 
+ / /   大 的 图片 广告 
+ / /   根据 图片 创建 id , 按钮 元素 等 ， 实际 开发 建议 使用 JSON 数据 类似 
+ var   htmlAdBtn   =   ' ' ; 
+ $ ( " # jdAdSlide   img " ) . each ( function ( index ,   image )   { 
+         var   id   =   " adImage "   +   index ; 
+         htmlAdBtn   =   htmlAdBtn   +   ' < a   href = " javascript : "   class = " jd _ ad _ btn _ a "   data - rel = " ' +   id   + ' " > ' +   ( index   +   1 )   + ' < / a > ' ; 
+         image . id   =   id ; 
+ } ) ; 
+ $ ( " # jdAdBtn " ) . html ( htmlAdBtn ) . find ( " a " ) . powerSwitch ( { 
+         eventType :   " hover " , 
+         classAdd :   " active " , 
+         animation :   " fade " , 
+         autoTime :   5000 , 
+         onSwitch :   function ( image )   { 
+                 if   ( ! image . attr ( " src " ) )   { 
+                         image . attr ( " src " ,   image . attr ( " data - src " ) ) ;     
+                 } 
+         } 
+ } ) . eq ( 0 ) . trigger ( " mouseover " ) ; 
+ 
+ / /   便民服务 
+ $ ( " # servNav   a " ) . powerSwitch ( { 
+         classAdd :   " active " , 
+         eventType :   " hover " , 
+         onSwitch :   function ( )   { 
+                 $ ( " # pointLine " ) . animate ( {   " left " :   $ ( this ) . position ( ) . left } ,   200 ) ; 
+         } 
+ } ) ; 
+ 
+ 
+ 
+ 
+ 
+ 宁夏大学 党建网 
+ 宁夏大学 新闻网 
+ 
+ 
+ 微信   
+ 新浪 微博   
+ 宁夏大学 党建网   
+ 宁夏大学 新闻网   window ._ bd _ share _ config = { " common " : { " bdSnsKey " : { } , " bdText " : " " , " bdMini " : " 1 " , " bdMiniList " : false , " bdPic " : " " , " bdStyle " : " 1 " , " bdSize " : " 24 " } , " share " : { } } ; with ( document ) 0 [ ( getElementsByTagName ( ' head ' ) [ 0 ] | | body ) . appendChild ( createElement ( ' script ' ) ) . src = ' http : / / bdimg . share . baidu . com / static / api / js / share . js ? v = 89860593 . js ? cdnversion = ' + ~ ( - new   Date ( ) / 36e5 ) ] ; 
+ 

@@ -1,0 +1,124 @@
+香港 树仁 大学 学生 代表团 到 我校 交流学习 【 宁夏大学 新闻 中心 讯   团委   对外 合作 交流 处 】 6 月 8 日 ， 香港 树仁 大学 师生 代表 一行 32 人来 我校 交流学习 ， 对外 合作 交流 处 、 校团委 、 学生会 热情 开展 接待 并 安排 了 一系列 交流活动 。 
+ 上午 ， 树仁 大学 代表团 来到 贺兰山 校区 行政 楼 与 我校 志愿者 们 共同 参加 了 “ ‘ 一带 一路 ’ 与 宁夏 的 担当 ” 主题 分享 交流活动 ， 通过 听取报告 和 双方 同学 们 的 热烈 交流 ， 树仁 大学 的 同学 们 更加 了解 了 宁夏 在 “ 一带 一路 ” 建设 中 的 责任 担当 。 
+ 
+ 随后 ， 在 志愿者 的 带领 下 ， 树仁 大学 代表 们 登上 了 贺兰山 校区 行政 楼 天台 俯瞰 宁大 全景 ， 在 志愿者 的 介绍 下 了解 了 我校 校园 建设 ， 领略 了 宁大 的 校园 风采 。 
+ 
+ 为了 让 香港 的 同学 们 更加 了解 我校 的 校园文化 ， 短暂 的 午休 过后 ， 香港 树仁 大学 学生 代表 们 对 我校 校园文化 建设 进行 了 考察 交流 。 
+ 在 文萃 校区 大学生 活动 心 ， 树仁 大学 代表团 在 志愿者 的 陪同 下 参观 了 我校 大学生 艺术团 管乐队 的 排练 现场 和 政法学院 送 老生 晚会 的 彩排 现场 ， 感受 了 我校 多姿多彩 的 校园文化 ; 在 大益 爱心 茶室 ， 淡淡的 茶香 和 优雅 的 茶艺 表演 让 同学 们 零距离 感受 了 中华 茶文化 的 博大精深 ; 在 国防生 宿舍楼 和 科技 楼 ， 同学 们 不仅 感受 到 了 我校 对 国防力量 和 科技 人才培养 的 重视 ， 也 对 大陆 相关 政策 在 高校 的 执行 有 了 进一步 的 了解 。 
+ 
+ 
+ 
+ 随后 ， 两校 学子 在 怀远 校区 校园文化 广场 咖啡屋 举办 了 一场 交流 派对 。 宁夏 花儿 、 藏族 舞蹈 、 古筝 弹奏 和 舞剑 表演 等 节目 精彩纷呈 ， 两校 学生 深入 交流 ， 共同 游戏 ， 互赠 礼品 ， 展示 才艺 ， 一次次 点燃 了 两校 学子 的 热情 。 
+ 
+ 
+ 本次 交流活动 的 举办 进一步 加强 了 我校 与 香港 树仁 大学 之间 的 友谊 ， 同时 也 使 香港 学子 进一步 了解 了 中国 大陆 西部 地区 高校 的 发展 状况 ， 加深 了 香港 来访 同学 对 大陆 的 了解 ， 增强 了 同学 们 对 祖国 的 认同感 。 
+   
+                 
+                 上 一条 ： 学校 召开 学习 贯彻 全国 科技 创新 大会 重要 精神 座谈会 
+ 
+                 下 一条 ： 宁夏 “ 泰昇祥 ” 杯 第二届 “ 互联网 + ” 大学生 创新 创业 大赛 区级 复赛 在 我校 顺利进行 
+         
+         
+                 function   dosubc42633 ( ) 
+                 { 
+                         try { 
+                                 var   ua   =   navigator . userAgent . toLowerCase ( ) ; 
+                                 if ( ua . indexOf ( " msie   8 " ) > - 1 ) 
+                                 { 
+                                         window . external . AddToFavoritesBar ( document . location . href , document . title , " " ) ; / / IE8 
+                                 } else { 
+                                         if   ( document . all )   
+                                         { 
+                                                 window . external . addFavorite ( document . location . href ,   document . title ) ; 
+                                         } else   if ( window . sidebar ) 
+                                         { 
+                                                 window . sidebar . addPanel (   document . title ,   document . location . href ,   " " ) ; / / firefox 
+                                         } 
+                                 } 
+                 
+                         } 
+                         catch   ( e ) { alert ( " 无法 自动 添加 到 收藏夹 ， 请 使用   Ctrl   +   d   手动 添加 " ) ; } 
+                 } 
+               【 打印 】 
+                               
+ function   printme ( ) 
+ { 
+ document . body . innerHTML = document . getElementById ( ' div1 ' ) . innerHTML ; 
+ window . print ( ) ; 
+ } 
+ 
+                     【 收藏 】     【 关闭 】 
+ 
+ 
+ 
+ 
+ 
+ 
+   新闻网 
+         
+   信息 门户 
+         
+   科研 平台 
+         
+   学工 系统 
+         
+   本科 招生 
+         
+   教务 系统 
+         
+   校园 宣传 审批 系统 
+         
+   网络服务 
+         
+   校友网 
+         
+   邮箱 登陆 
+         
+   站 群 检索 
+         
+ 
+ 
+ 
+ 地址 ： 宁夏 银川市 西夏区 贺兰山 西路 489 号 　 邮编 ： 750021     电话 ： 0951 - 2077800   宁 ICP 备 05002185     Copyright   ©   宁夏大学     技术支持 ： 网络 与 信息管理 中心 
+ / /   大 的 图片 广告 
+ / /   根据 图片 创建 id , 按钮 元素 等 ， 实际 开发 建议 使用 JSON 数据 类似 
+ var   htmlAdBtn   =   ' ' ; 
+ $ ( " # jdAdSlide   img " ) . each ( function ( index ,   image )   { 
+         var   id   =   " adImage "   +   index ; 
+         htmlAdBtn   =   htmlAdBtn   +   ' < a   href = " javascript : "   class = " jd _ ad _ btn _ a "   data - rel = " ' +   id   + ' " > ' +   ( index   +   1 )   + ' < / a > ' ; 
+         image . id   =   id ; 
+ } ) ; 
+ $ ( " # jdAdBtn " ) . html ( htmlAdBtn ) . find ( " a " ) . powerSwitch ( { 
+         eventType :   " hover " , 
+         classAdd :   " active " , 
+         animation :   " fade " , 
+         autoTime :   5000 , 
+         onSwitch :   function ( image )   { 
+                 if   ( ! image . attr ( " src " ) )   { 
+                         image . attr ( " src " ,   image . attr ( " data - src " ) ) ;     
+                 } 
+         } 
+ } ) . eq ( 0 ) . trigger ( " mouseover " ) ; 
+ 
+ / /   便民服务 
+ $ ( " # servNav   a " ) . powerSwitch ( { 
+         classAdd :   " active " , 
+         eventType :   " hover " , 
+         onSwitch :   function ( )   { 
+                 $ ( " # pointLine " ) . animate ( {   " left " :   $ ( this ) . position ( ) . left } ,   200 ) ; 
+         } 
+ } ) ; 
+ 
+ 
+ 
+ 
+ 
+ 宁夏大学 党建网 
+ 宁夏大学 新闻网 
+ 
+ 
+ 微信   
+ 新浪 微博   
+ 宁夏大学 党建网   
+ 宁夏大学 新闻网   window ._ bd _ share _ config = { " common " : { " bdSnsKey " : { } , " bdText " : " " , " bdMini " : " 1 " , " bdMiniList " : false , " bdPic " : " " , " bdStyle " : " 1 " , " bdSize " : " 24 " } , " share " : { } } ; with ( document ) 0 [ ( getElementsByTagName ( ' head ' ) [ 0 ] | | body ) . appendChild ( createElement ( ' script ' ) ) . src = ' http : / / bdimg . share . baidu . com / static / api / js / share . js ? v = 89860593 . js ? cdnversion = ' + ~ ( - new   Date ( ) / 36e5 ) ] ; 
+ 

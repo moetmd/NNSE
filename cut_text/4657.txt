@@ -1,0 +1,123 @@
+我校 第三届 “ 联通 杯 ” 文明 交通 演讲比赛 决赛 圆满 落幕 【 宁夏大学 新闻 中心 讯   学生 记者   潘妍   高 诏 诏 】 为 扎实 推进 校园 文明 交通 志愿 服务 活动 ， 增强 广大 学生 文明 出行 意识 ， 创造 安全 、 畅通 、 文明 的 道路交通 环境 ， 营造 遵纪守法 、 和谐 互助 的 良好 社会风尚 ， 由 校党委 宣传部 、 学生 工作部 （ 学生处 ） 、 团委 、 保卫处 和 机械 工程学院 共同 举办 的 宁夏大学 第三届 “ 联通 杯 ” 文明 交通 演讲比赛 决赛 于 6 月 1 日 下午 在 文萃 校区 国防生 之 家 举行 。 本次 演讲比赛 的 主题 是 “ 珍爱 生命 共筑国 梦 · 文明 交通 你 我 同行 ” 。 校党委 副 书记 赵利宁及 有关 部门 负责人 出席 并 担任 本次 比赛 评委 。 
+ 
+ 经过 初赛 、 复赛 ， 共有 12 名 选手 进入 决赛 。 各位 选手 各显其能 ， 用 自己 独特 的 演讲 方式 阐释 着 文明 交通 的 重要性 。 他们 或 深情 演说 ， 或 风趣 笑谈 ， 或 据实 分析 ， 通过 一个个 惊人 的 数据 、 一个个 惨痛 的 教训 为 我们 敲响警钟 ； 即兴 演讲 中 ， 选手 们 才思敏捷 ， 侃侃而谈 ， 用 理性 思维 看待 当前 的 各个 热门话题 ， 体现 一个 当代 学子 应有 的 社会 情怀 ； 附加 题 环节 更是 充分 展示 出 各 参赛者 的 日常 交通 知识 储备 。 慷慨激昂 的 演讲 、 饱含 正 能量 的 倡议 赢得 了 评委 和 同学 们 的 阵阵 掌声 。 随后 赵智宏 老师 从 “ 音乐 背景 、 仪容 仪态 、 演讲 声音 、 逻辑 、 主题 、 内容 、 即兴 演讲 ” 等 七 方面 做 了 生动 而 精彩 的 点评 。 
+ 最后 ， 赵利宁 在 会上 讲话 。 他 指出 活动 的 意义 在于 保障 师生 生命财产 安全 ， 维护 校园 安全 稳定 ； 确保 道路交通 安全 ， 促进 社会 文明 建设 ； 全面 促成 中国 梦 的 实现 。 他 强调 ， 营造 和谐社会 是 每个 人 的 责任 ， 共筑 中国 梦 ， 需要 全民 提高 文明 素质 和 法律 素质 ， 各 学院 要 加强 安全 教育 ， 开展 文明 交通 志愿 服务 活动 。 
+ 
+ 经过 激烈 的 角逐 ， 葡萄酒 学院 的 王明 敏 摘得 桂冠 ， 物理 与 电子 电气 工程学院 的 俞俏滟 和 经济 管理 学院 的 马 玉兰 获得 二等奖 ， 外国语 学院 的 谢亚 男 、 机械 工程学院 的 谭胜 和 政法学院 的 张钰 荣获 三等奖 。 至此 ， 宁夏大学 第三届 “ 联通 杯 ” 文明 交通 演讲比赛 圆满 落幕 。 
+ 
+ 
+ （ 责任编辑 ： 徐静 ） 
+   
+                 
+                 上 一条 ： 畅谈 博者 人生 感悟 学术 大道 
+ 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 — — 宁夏大学 金波 论坛 第 165 期 开讲 
+ 
+                 下 一条 ： 区 社科联 主席 杨占武 做客 阿拉伯 学 大讲堂 第九 讲 
+         
+         
+                 function   dosubc42633 ( ) 
+                 { 
+                         try { 
+                                 var   ua   =   navigator . userAgent . toLowerCase ( ) ; 
+                                 if ( ua . indexOf ( " msie   8 " ) > - 1 ) 
+                                 { 
+                                         window . external . AddToFavoritesBar ( document . location . href , document . title , " " ) ; / / IE8 
+                                 } else { 
+                                         if   ( document . all )   
+                                         { 
+                                                 window . external . addFavorite ( document . location . href ,   document . title ) ; 
+                                         } else   if ( window . sidebar ) 
+                                         { 
+                                                 window . sidebar . addPanel (   document . title ,   document . location . href ,   " " ) ; / / firefox 
+                                         } 
+                                 } 
+                 
+                         } 
+                         catch   ( e ) { alert ( " 无法 自动 添加 到 收藏夹 ， 请 使用   Ctrl   +   d   手动 添加 " ) ; } 
+                 } 
+               【 打印 】 
+                               
+ function   printme ( ) 
+ { 
+ document . body . innerHTML = document . getElementById ( ' div1 ' ) . innerHTML ; 
+ window . print ( ) ; 
+ } 
+ 
+                     【 收藏 】     【 关闭 】 
+ 
+ 
+ 
+ 
+ 
+ 
+   新闻网 
+         
+   信息 门户 
+         
+   科研 平台 
+         
+   学工 系统 
+         
+   本科 招生 
+         
+   教务 系统 
+         
+   校园 宣传 审批 系统 
+         
+   网络服务 
+         
+   校友网 
+         
+   邮箱 登陆 
+         
+   站 群 检索 
+         
+ 
+ 
+ 
+ 地址 ： 宁夏 银川市 西夏区 贺兰山 西路 489 号 　 邮编 ： 750021     电话 ： 0951 - 2077800   宁 ICP 备 05002185     Copyright   ©   宁夏大学     技术支持 ： 网络 与 信息管理 中心 
+ / /   大 的 图片 广告 
+ / /   根据 图片 创建 id , 按钮 元素 等 ， 实际 开发 建议 使用 JSON 数据 类似 
+ var   htmlAdBtn   =   ' ' ; 
+ $ ( " # jdAdSlide   img " ) . each ( function ( index ,   image )   { 
+         var   id   =   " adImage "   +   index ; 
+         htmlAdBtn   =   htmlAdBtn   +   ' < a   href = " javascript : "   class = " jd _ ad _ btn _ a "   data - rel = " ' +   id   + ' " > ' +   ( index   +   1 )   + ' < / a > ' ; 
+         image . id   =   id ; 
+ } ) ; 
+ $ ( " # jdAdBtn " ) . html ( htmlAdBtn ) . find ( " a " ) . powerSwitch ( { 
+         eventType :   " hover " , 
+         classAdd :   " active " , 
+         animation :   " fade " , 
+         autoTime :   5000 , 
+         onSwitch :   function ( image )   { 
+                 if   ( ! image . attr ( " src " ) )   { 
+                         image . attr ( " src " ,   image . attr ( " data - src " ) ) ;     
+                 } 
+         } 
+ } ) . eq ( 0 ) . trigger ( " mouseover " ) ; 
+ 
+ / /   便民服务 
+ $ ( " # servNav   a " ) . powerSwitch ( { 
+         classAdd :   " active " , 
+         eventType :   " hover " , 
+         onSwitch :   function ( )   { 
+                 $ ( " # pointLine " ) . animate ( {   " left " :   $ ( this ) . position ( ) . left } ,   200 ) ; 
+         } 
+ } ) ; 
+ 
+ 
+ 
+ 
+ 
+ 宁夏大学 党建网 
+ 宁夏大学 新闻网 
+ 
+ 
+ 微信   
+ 新浪 微博   
+ 宁夏大学 党建网   
+ 宁夏大学 新闻网   window ._ bd _ share _ config = { " common " : { " bdSnsKey " : { } , " bdText " : " " , " bdMini " : " 1 " , " bdMiniList " : false , " bdPic " : " " , " bdStyle " : " 1 " , " bdSize " : " 24 " } , " share " : { } } ; with ( document ) 0 [ ( getElementsByTagName ( ' head ' ) [ 0 ] | | body ) . appendChild ( createElement ( ' script ' ) ) . src = ' http : / / bdimg . share . baidu . com / static / api / js / share . js ? v = 89860593 . js ? cdnversion = ' + ~ ( - new   Date ( ) / 36e5 ) ] ; 
+ 

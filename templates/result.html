@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>搜索结果</title>
+    <!-- Custom Theme files -->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <!--Google Fonts-->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800'
+          rel='stylesheet' type='text/css'>
+
+    <link href="{{ url_for('static', filename='css/style.css') }} " rel="stylesheet" type="text/css" media="all"/>
+    <!--Google Fonts-->
+    <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet" type="text/css"
+          media="all"/>
+</head>
+<body>
+<div class="container">
+
+    <div class="card" style="width:70%; margin:10px; margin-top:30px;">
+        <div class="card-body">
+
+            <h5 class="card-title">关键词：</h5>
+            <p class="card-text">{{keywords}}</p>
+            <a class="card-link" href="/index">返回</a>
+
+        </div>
+    </div>
+
+    {% for key, value in results.items() %}
+    <div class="card" style="width:70%; margin:10px;">
+        <div class="card-body">
+            <h5 class="card-title">文章编号：{{key}}</h5>
+            <h6 class="card-subtitle mb-2 text-muted">{{value}}</h6>
+            <p class="card-text">{{titles[loop.index0]}}</p>
+            <a class="card-link" href="http://www.nxu.edu.cn/info/1171/{{key}}.htm">链接</a>
+        </div>
+    </div>
+    {% endfor %}
+
+    <div></div>
+
+</div>
+
+
+<script src="{{ url_for('static', filename='js/jquery-3.3.1.slim.min.js') }}"></script>
+<script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+
+</body>
+</html>

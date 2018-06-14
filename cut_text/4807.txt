@@ -1,0 +1,113 @@
+校团委 加入 “ 一带 一路 ” 大学生 公益 联盟 【 宁夏大学 新闻 中心 讯   团委 】 近日 ， 由 浙江大学 发起 成立 的 “ 一带 一路 ” 大学生 公益 联盟 在 杭州 成立 ， 经团 中央书记处 批复 ， 团中央 学校 部 作为 “ 一带 一路 ” 大学生 公益 联盟 指导 单位 出席 联盟 成立 仪式 ， 我 校团委 作为 全国 首批 16 所 联盟 成员 单位 参加 了 大学生 公益 联盟 成立 仪式 。 
+ “ 一带 一路 ” 大学生 公益 联盟 旨在 服务 国家 “ 一带 一路 ” 重大 战略 ， 强化 青年 大学生 的 责任 担当 和 公益 精神 ， 号召 青年 大学生 深入基层 、 深入 西部 。 联盟 成立 后 ， 将 在 “ 一带 一路 ” 战略 沿线 地区 开展 以非 物质 文化遗产 保护 、 水资源 开发 与 保护 、 关爱 农村 留守 儿童 和 专项 公益 项目 等 大学生 公益 实践 活动 。 
+ 近年来 ， 我 校团委 积极开展 科技支农 帮扶 、 政策 普及 宣讲 、 教育 关爱 服务 、 文化 艺术 服务 、 社会 调查 研究 等 活动 ， 作为 “ 一带 一路 ” 大学生 联盟 成员 单位 ， 我 校团委 将 积极 参加 到 “ 一带 一路 ” 战略 中 ， 继续 发挥 服务 地方 经济社会 的 重要 作用 ， 引导 广大 团员青年 深入 社会 、 了解 国情 、 接受 锻炼 。 
+   
+                 
+                 上 一条 ： “ 一带 一路 ” 文化交流 蓝皮书 《 中 阿 文化交流 发展 报告 （ 2016 ） 》 研讨会 在京举行 
+ 
+                 下 一条 ： 国务院 精准 扶贫 工作 成效 第三方 评估 在 宁夏 展开 
+         
+         
+                 function   dosubc42633 ( ) 
+                 { 
+                         try { 
+                                 var   ua   =   navigator . userAgent . toLowerCase ( ) ; 
+                                 if ( ua . indexOf ( " msie   8 " ) > - 1 ) 
+                                 { 
+                                         window . external . AddToFavoritesBar ( document . location . href , document . title , " " ) ; / / IE8 
+                                 } else { 
+                                         if   ( document . all )   
+                                         { 
+                                                 window . external . addFavorite ( document . location . href ,   document . title ) ; 
+                                         } else   if ( window . sidebar ) 
+                                         { 
+                                                 window . sidebar . addPanel (   document . title ,   document . location . href ,   " " ) ; / / firefox 
+                                         } 
+                                 } 
+                 
+                         } 
+                         catch   ( e ) { alert ( " 无法 自动 添加 到 收藏夹 ， 请 使用   Ctrl   +   d   手动 添加 " ) ; } 
+                 } 
+               【 打印 】 
+                               
+ function   printme ( ) 
+ { 
+ document . body . innerHTML = document . getElementById ( ' div1 ' ) . innerHTML ; 
+ window . print ( ) ; 
+ } 
+ 
+                     【 收藏 】     【 关闭 】 
+ 
+ 
+ 
+ 
+ 
+ 
+   新闻网 
+         
+   信息 门户 
+         
+   科研 平台 
+         
+   学工 系统 
+         
+   本科 招生 
+         
+   教务 系统 
+         
+   校园 宣传 审批 系统 
+         
+   网络服务 
+         
+   校友网 
+         
+   邮箱 登陆 
+         
+   站 群 检索 
+         
+ 
+ 
+ 
+ 地址 ： 宁夏 银川市 西夏区 贺兰山 西路 489 号 　 邮编 ： 750021     电话 ： 0951 - 2077800   宁 ICP 备 05002185     Copyright   ©   宁夏大学     技术支持 ： 网络 与 信息管理 中心 
+ / /   大 的 图片 广告 
+ / /   根据 图片 创建 id , 按钮 元素 等 ， 实际 开发 建议 使用 JSON 数据 类似 
+ var   htmlAdBtn   =   ' ' ; 
+ $ ( " # jdAdSlide   img " ) . each ( function ( index ,   image )   { 
+         var   id   =   " adImage "   +   index ; 
+         htmlAdBtn   =   htmlAdBtn   +   ' < a   href = " javascript : "   class = " jd _ ad _ btn _ a "   data - rel = " ' +   id   + ' " > ' +   ( index   +   1 )   + ' < / a > ' ; 
+         image . id   =   id ; 
+ } ) ; 
+ $ ( " # jdAdBtn " ) . html ( htmlAdBtn ) . find ( " a " ) . powerSwitch ( { 
+         eventType :   " hover " , 
+         classAdd :   " active " , 
+         animation :   " fade " , 
+         autoTime :   5000 , 
+         onSwitch :   function ( image )   { 
+                 if   ( ! image . attr ( " src " ) )   { 
+                         image . attr ( " src " ,   image . attr ( " data - src " ) ) ;     
+                 } 
+         } 
+ } ) . eq ( 0 ) . trigger ( " mouseover " ) ; 
+ 
+ / /   便民服务 
+ $ ( " # servNav   a " ) . powerSwitch ( { 
+         classAdd :   " active " , 
+         eventType :   " hover " , 
+         onSwitch :   function ( )   { 
+                 $ ( " # pointLine " ) . animate ( {   " left " :   $ ( this ) . position ( ) . left } ,   200 ) ; 
+         } 
+ } ) ; 
+ 
+ 
+ 
+ 
+ 
+ 宁夏大学 党建网 
+ 宁夏大学 新闻网 
+ 
+ 
+ 微信   
+ 新浪 微博   
+ 宁夏大学 党建网   
+ 宁夏大学 新闻网   window ._ bd _ share _ config = { " common " : { " bdSnsKey " : { } , " bdText " : " " , " bdMini " : " 1 " , " bdMiniList " : false , " bdPic " : " " , " bdStyle " : " 1 " , " bdSize " : " 24 " } , " share " : { } } ; with ( document ) 0 [ ( getElementsByTagName ( ' head ' ) [ 0 ] | | body ) . appendChild ( createElement ( ' script ' ) ) . src = ' http : / / bdimg . share . baidu . com / static / api / js / share . js ? v = 89860593 . js ? cdnversion = ' + ~ ( - new   Date ( ) / 36e5 ) ] ; 
+ 

@@ -1,0 +1,133 @@
+2016 届 研究生 毕业 【 宁夏大学 新闻 中心 讯   胡玥 / 文   龚旭峰 / 图 】 6 月 8 日 ， 我校 在 文萃 校区 大学生 活动中心 举行 2016 届 研究生 毕业典礼 暨 学位 授予 仪式 。 13 名 博士 研究生 ， 872 名 硕士 研究生 将 从 母校 扬帆 起航 ， 迈向 新 的 人生 征程 。 校领导 何 建国 、 赵利宁 、 王燕昌 、 孔斌 、 田军 仓 和 各 培养 单位 主要 负责人 ， 研究生 导师 ， 分管 研究生 工作 院长 ( 主任 ) 、 副 书记 等 参加 了 此次 毕业典礼 。 
+ 
+ 
+ 会上 ， 校党委 副 书记 赵利宁 、 王燕昌 ， 校 纪委书记 孔斌 ， 副校长 田军 仓 先后 宣读 了 《 关于 表彰 2015 年度 研究生 国家 奖学金 获得者 的 决定 》 《 关于 表彰 2016 届 校级 优秀 毕业 研究生 的 决定 》 《 关于 表彰 赴 新疆 工作 学生 宁夏大学 校级 优秀 毕业生 的 决定 》 和 《 关于 授予 马莉 等 13 人 博士学位 、 刘博 等 872 人 硕士学位 的 决定 》 ， 并 为 获奖 代表 颁奖 。 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 化学 化工学院 2016 届 硕士 研究生 任冰 同学 作为 毕业生 代表 表达 了 对 老师 的 感谢 ， 对 同学 的 不舍 和 对 未来 的 期盼 。 人文学院 院长 胡玉冰 教授 深情 寄语 ， 载满了 学校 和 老师 们 对 毕业生 的 殷殷 希冀 和 真诚 祝福 。 
+ 
+ 
+ 校长 何 建国 向 2016 届 全体 毕业 研究生 表示 衷心 的 祝贺 ， 祝贺 他们 圆满 完成学业 ， 为 自己 的 人生 打下 了 更加 坚实 的 基础 ， 开启 了 新 的 生活 之 门 。 他 代表 学校 向 为 研究生 培养 付出 辛劳 汗水 的 各位 导师 和 管理 服务 人员 表示 由衷 的 感谢 。 他 与 即将 结束 研究生 学习 生涯 、 满载 希望 和 收获 、 即将 奔赴 人生 新 征程 的 同学 们 共同 分享 了 自己 对 人生 与 未来 发展 的 感悟 。 他 勉励 毕业 研究生 ， 不忘 初心 ， 坚持 自我 ; 珍惜 时间 ， 永不 懈怠 ， 认准 方向 ， 坚定信心 ， 保持 热情 ， 昂扬 斗志 ， 坚持 到 最后 才能 笑 到 最后 ; 脚踏实地 ， 追求 卓越 。 他 希望 同学 们 珍惜 眼前 、 胸怀 未来 ， 在 前行 的 道路 上 ， 栉风沐雨 、 砥砺 名行 ， 实现 自我 ， 淬炼 成金 。 在 实现 人生价值 的 同时 收获 毕生 的 幸福 与 和谐 ! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 随后 ， 宁夏大学 校长 、 校 学位 评定 委员会 主席 何 建国 教授 和 与会 校领导 一道 ， 为 获得 博士学位 的 13 名 研究生 和 872 名 获得 硕士学位 的 研究生 一一 颁发 了 学位证书 ， 扶正 流苏 。 
+ （ 责任编辑 ： 陈建丽 ） 
+   
+                 
+                 上 一条 ： 良好 学术 氛围 渐 浓   助力 学生 学风 建设 
+ 
+                 下 一条 ： 自治区 党委 统战工作 领导小组 调研 检查组 到 我校 调研 检查 
+         
+         
+                 function   dosubc42633 ( ) 
+                 { 
+                         try { 
+                                 var   ua   =   navigator . userAgent . toLowerCase ( ) ; 
+                                 if ( ua . indexOf ( " msie   8 " ) > - 1 ) 
+                                 { 
+                                         window . external . AddToFavoritesBar ( document . location . href , document . title , " " ) ; / / IE8 
+                                 } else { 
+                                         if   ( document . all )   
+                                         { 
+                                                 window . external . addFavorite ( document . location . href ,   document . title ) ; 
+                                         } else   if ( window . sidebar ) 
+                                         { 
+                                                 window . sidebar . addPanel (   document . title ,   document . location . href ,   " " ) ; / / firefox 
+                                         } 
+                                 } 
+                 
+                         } 
+                         catch   ( e ) { alert ( " 无法 自动 添加 到 收藏夹 ， 请 使用   Ctrl   +   d   手动 添加 " ) ; } 
+                 } 
+               【 打印 】 
+                               
+ function   printme ( ) 
+ { 
+ document . body . innerHTML = document . getElementById ( ' div1 ' ) . innerHTML ; 
+ window . print ( ) ; 
+ } 
+ 
+                     【 收藏 】     【 关闭 】 
+ 
+ 
+ 
+ 
+ 
+ 
+   新闻网 
+         
+   信息 门户 
+         
+   科研 平台 
+         
+   学工 系统 
+         
+   本科 招生 
+         
+   教务 系统 
+         
+   校园 宣传 审批 系统 
+         
+   网络服务 
+         
+   校友网 
+         
+   邮箱 登陆 
+         
+   站 群 检索 
+         
+ 
+ 
+ 
+ 地址 ： 宁夏 银川市 西夏区 贺兰山 西路 489 号 　 邮编 ： 750021     电话 ： 0951 - 2077800   宁 ICP 备 05002185     Copyright   ©   宁夏大学     技术支持 ： 网络 与 信息管理 中心 
+ / /   大 的 图片 广告 
+ / /   根据 图片 创建 id , 按钮 元素 等 ， 实际 开发 建议 使用 JSON 数据 类似 
+ var   htmlAdBtn   =   ' ' ; 
+ $ ( " # jdAdSlide   img " ) . each ( function ( index ,   image )   { 
+         var   id   =   " adImage "   +   index ; 
+         htmlAdBtn   =   htmlAdBtn   +   ' < a   href = " javascript : "   class = " jd _ ad _ btn _ a "   data - rel = " ' +   id   + ' " > ' +   ( index   +   1 )   + ' < / a > ' ; 
+         image . id   =   id ; 
+ } ) ; 
+ $ ( " # jdAdBtn " ) . html ( htmlAdBtn ) . find ( " a " ) . powerSwitch ( { 
+         eventType :   " hover " , 
+         classAdd :   " active " , 
+         animation :   " fade " , 
+         autoTime :   5000 , 
+         onSwitch :   function ( image )   { 
+                 if   ( ! image . attr ( " src " ) )   { 
+                         image . attr ( " src " ,   image . attr ( " data - src " ) ) ;     
+                 } 
+         } 
+ } ) . eq ( 0 ) . trigger ( " mouseover " ) ; 
+ 
+ / /   便民服务 
+ $ ( " # servNav   a " ) . powerSwitch ( { 
+         classAdd :   " active " , 
+         eventType :   " hover " , 
+         onSwitch :   function ( )   { 
+                 $ ( " # pointLine " ) . animate ( {   " left " :   $ ( this ) . position ( ) . left } ,   200 ) ; 
+         } 
+ } ) ; 
+ 
+ 
+ 
+ 
+ 
+ 宁夏大学 党建网 
+ 宁夏大学 新闻网 
+ 
+ 
+ 微信   
+ 新浪 微博   
+ 宁夏大学 党建网   
+ 宁夏大学 新闻网   window ._ bd _ share _ config = { " common " : { " bdSnsKey " : { } , " bdText " : " " , " bdMini " : " 1 " , " bdMiniList " : false , " bdPic " : " " , " bdStyle " : " 1 " , " bdSize " : " 24 " } , " share " : { } } ; with ( document ) 0 [ ( getElementsByTagName ( ' head ' ) [ 0 ] | | body ) . appendChild ( createElement ( ' script ' ) ) . src = ' http : / / bdimg . share . baidu . com / static / api / js / share . js ? v = 89860593 . js ? cdnversion = ' + ~ ( - new   Date ( ) / 36e5 ) ] ; 
+ 

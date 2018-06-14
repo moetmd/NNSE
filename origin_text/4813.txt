@@ -1,0 +1,118 @@
+自治区党委统战工作领导小组调研检查组到我校调研检查【宁夏大学新闻中心讯 党委统战部】6月7日下午，由区党委统战部副巡视员焦登相带队的自治区党委统战工作领导小组第一调研检查组就贯彻落实中央、自治区党委关于统一战线一系列重大决策部署情况来我校调研检查。
+
+校党委副书记赵利宁向调研检查组汇报了我校贯彻落实重大决策的部署情况、目前存在的问题、下一步整改落实措施和建议。井惠敏就调研检查组提出的具体问题进行了回答。
+
+焦登相说，宁夏大学统战工作一直做在全区高校统战工作的前列，希望以这次调研检查为契机，认真梳理存在的问题，查找薄弱环节，制定出整改落实措施，使中央、自治区党委关于统一战线一系列重大决策落到实处，迎接中央统战工作领导小组的调研检查。
+
+座谈会后，调研检查组与我校各民主党派、团体负责人进行了单独谈话。
+（责任编辑：胡玥）
+ 
+        
+        上一条：2016届研究生毕业
+
+        下一条：第三届“三走”活动之“爱我中华民族风”少数民族运动项目体验营落幕
+    
+    
+        function dosubc42633()
+        {
+            try{
+                var ua = navigator.userAgent.toLowerCase();
+                if(ua.indexOf("msie 8")>-1)
+                {
+                    window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+                }else{
+                    if (document.all) 
+                    {
+                        window.external.addFavorite(document.location.href, document.title);
+                    }else if(window.sidebar)
+                    {
+                        window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+                    }
+                }
+        
+            }
+            catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+        }
+       【打印】
+               
+function printme()
+{
+document.body.innerHTML=document.getElementById('div1').innerHTML;
+window.print();
+}
+
+          【收藏】  【关闭】
+
+
+
+
+
+
+ 新闻网
+    
+ 信息门户
+    
+ 科研平台
+    
+ 学工系统
+    
+ 本科招生
+    
+ 教务系统
+    
+ 校园宣传审批系统
+    
+ 网络服务
+    
+ 校友网
+    
+ 邮箱登陆
+    
+ 站群检索
+    
+
+
+
+地址：宁夏银川市西夏区贺兰山西路489号　邮编：750021  电话：0951-2077800 宁ICP备05002185  Copyright © 宁夏大学  技术支持：网络与信息管理中心
+// 大的图片广告
+// 根据图片创建id,按钮元素等，实际开发建议使用JSON数据类似
+var htmlAdBtn = '';
+$("#jdAdSlide img").each(function(index, image) {
+    var id = "adImage" + index;
+    htmlAdBtn = htmlAdBtn + '<a href="javascript:" class="jd_ad_btn_a" data-rel="'+ id +'">'+ (index + 1) +'</a>';
+    image.id = id;
+});
+$("#jdAdBtn").html(htmlAdBtn).find("a").powerSwitch({
+    eventType: "hover",
+    classAdd: "active",
+    animation: "fade",
+    autoTime: 5000,
+    onSwitch: function(image) {
+        if (!image.attr("src")) {
+            image.attr("src", image.attr("data-src"));  
+        }
+    }
+}).eq(0).trigger("mouseover");
+
+// 便民服务
+$("#servNav a").powerSwitch({
+    classAdd: "active",
+    eventType: "hover",
+    onSwitch: function() {
+        $("#pointLine").animate({ "left": $(this).position().left}, 200);
+    }
+});
+
+
+
+
+
+宁夏大学党建网
+宁夏大学新闻网
+
+
+微信 
+新浪微博 
+宁夏大学党建网 
+宁夏大学新闻网 window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+

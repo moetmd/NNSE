@@ -1,0 +1,113 @@
+国家科技支撑计划项目“西部生态城镇与绿色建筑技术集成研究与工程示范”...【宁夏大学新闻中心讯 科技处】由我校和中国建筑西南设计研究院有限公司共同主持的国家科技支撑计划项目“西部生态城镇与绿色建筑技术集成研究与工程示范”于5月10至23日先后在新疆、西藏、青海，四川、宁夏等地进行课题现场勘验，近日在银川举行项目验收会，此次项目验收会由科技部委托自治区科技厅负责，验收组由来自全国的9位专家组成，专家组听取了6个课题汇报、审阅有关资料，经质询和讨论后专家组一致认为该项目完成计划任务，同意结题验收。
+由我校田军仓教授和贺生云教授共同主持的课题“干旱区城镇绿色建筑技术集成研究与示范” ，结合宁夏干旱气候特点和风俗民情，重点开展了干旱区绿色建筑设计技术、低能耗建筑一体化集成技术、绿色建筑室内环境控制和改善关键技术研究;建立了干旱区城镇低层住宅和小高层住宅绿色建筑技术集成示范，并编制了地方绿色建筑相关标准(审批稿);利用当地的粉煤灰等工业废弃物，研发了新型轻质混凝土墙板，将集热蓄热墙+附加阳光间+地面层保温蓄热技术与太阳能光热光伏技术相结合，自主研发了槽式型和自动型加湿降尘窗装置、细水喷雾加湿防沙装置、防风沙新风换气系统、建筑室内环境集成智能监控系统，建立了基于雨水收集和利用、污水处理和中水回用、节水灌溉与庭院绿化的绿色建筑节水和水处理集成技术模式，并在示范工程中应用。课题得到与会专家的充分肯定。
+（责任编辑：胡玥）
+ 
+        
+        上一条：第三届“三走”活动之“爱我中华民族风”少数民族运动项目体验营落幕
+
+        下一条：首届“明德杯”师范生教学技能大赛举行
+    
+    
+        function dosubc42633()
+        {
+            try{
+                var ua = navigator.userAgent.toLowerCase();
+                if(ua.indexOf("msie 8")>-1)
+                {
+                    window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+                }else{
+                    if (document.all) 
+                    {
+                        window.external.addFavorite(document.location.href, document.title);
+                    }else if(window.sidebar)
+                    {
+                        window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+                    }
+                }
+        
+            }
+            catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+        }
+       【打印】
+               
+function printme()
+{
+document.body.innerHTML=document.getElementById('div1').innerHTML;
+window.print();
+}
+
+          【收藏】  【关闭】
+
+
+
+
+
+
+ 新闻网
+    
+ 信息门户
+    
+ 科研平台
+    
+ 学工系统
+    
+ 本科招生
+    
+ 教务系统
+    
+ 校园宣传审批系统
+    
+ 网络服务
+    
+ 校友网
+    
+ 邮箱登陆
+    
+ 站群检索
+    
+
+
+
+地址：宁夏银川市西夏区贺兰山西路489号　邮编：750021  电话：0951-2077800 宁ICP备05002185  Copyright © 宁夏大学  技术支持：网络与信息管理中心
+// 大的图片广告
+// 根据图片创建id,按钮元素等，实际开发建议使用JSON数据类似
+var htmlAdBtn = '';
+$("#jdAdSlide img").each(function(index, image) {
+    var id = "adImage" + index;
+    htmlAdBtn = htmlAdBtn + '<a href="javascript:" class="jd_ad_btn_a" data-rel="'+ id +'">'+ (index + 1) +'</a>';
+    image.id = id;
+});
+$("#jdAdBtn").html(htmlAdBtn).find("a").powerSwitch({
+    eventType: "hover",
+    classAdd: "active",
+    animation: "fade",
+    autoTime: 5000,
+    onSwitch: function(image) {
+        if (!image.attr("src")) {
+            image.attr("src", image.attr("data-src"));  
+        }
+    }
+}).eq(0).trigger("mouseover");
+
+// 便民服务
+$("#servNav a").powerSwitch({
+    classAdd: "active",
+    eventType: "hover",
+    onSwitch: function() {
+        $("#pointLine").animate({ "left": $(this).position().left}, 200);
+    }
+});
+
+
+
+
+
+宁夏大学党建网
+宁夏大学新闻网
+
+
+微信 
+新浪微博 
+宁夏大学党建网 
+宁夏大学新闻网 window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+

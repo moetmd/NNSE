@@ -1,0 +1,133 @@
+2016届研究生毕业【宁夏大学新闻中心讯 胡玥/文 龚旭峰/图】6月8日，我校在文萃校区大学生活动中心举行2016届研究生毕业典礼暨学位授予仪式。13名博士研究生，872名硕士研究生将从母校扬帆起航，迈向新的人生征程。校领导何建国、赵利宁、王燕昌、孔斌、田军仓和各培养单位主要负责人，研究生导师，分管研究生工作院长(主任)、副书记等参加了此次毕业典礼。
+
+
+会上，校党委副书记赵利宁、王燕昌，校纪委书记孔斌，副校长田军仓先后宣读了《关于表彰2015年度研究生国家奖学金获得者的决定》《关于表彰2016届校级优秀毕业研究生的决定》《关于表彰赴新疆工作学生宁夏大学校级优秀毕业生的决定》和《关于授予马莉等13人博士学位、刘博等872人硕士学位的决定》，并为获奖代表颁奖。
+
+
+
+
+
+
+
+化学化工学院2016届硕士研究生任冰同学作为毕业生代表表达了对老师的感谢，对同学的不舍和对未来的期盼。人文学院院长胡玉冰教授深情寄语，载满了学校和老师们对毕业生的殷殷希冀和真诚祝福。
+
+
+校长何建国向2016届全体毕业研究生表示衷心的祝贺，祝贺他们圆满完成学业，为自己的人生打下了更加坚实的基础，开启了新的生活之门。他代表学校向为研究生培养付出辛劳汗水的各位导师和管理服务人员表示由衷的感谢。他与即将结束研究生学习生涯、满载希望和收获、即将奔赴人生新征程的同学们共同分享了自己对人生与未来发展的感悟。他勉励毕业研究生，不忘初心，坚持自我;珍惜时间，永不懈怠，认准方向，坚定信心，保持热情，昂扬斗志，坚持到最后才能笑到最后;脚踏实地，追求卓越。他希望同学们珍惜眼前、胸怀未来，在前行的道路上，栉风沐雨、砥砺名行，实现自我，淬炼成金。在实现人生价值的同时收获毕生的幸福与和谐!
+
+
+
+
+
+
+随后，宁夏大学校长、校学位评定委员会主席何建国教授和与会校领导一道，为获得博士学位的13名研究生和872名获得硕士学位的研究生一一颁发了学位证书，扶正流苏。
+（责任编辑：陈建丽）
+ 
+        
+        上一条：良好学术氛围渐浓 助力学生学风建设
+
+        下一条：自治区党委统战工作领导小组调研检查组到我校调研检查
+    
+    
+        function dosubc42633()
+        {
+            try{
+                var ua = navigator.userAgent.toLowerCase();
+                if(ua.indexOf("msie 8")>-1)
+                {
+                    window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+                }else{
+                    if (document.all) 
+                    {
+                        window.external.addFavorite(document.location.href, document.title);
+                    }else if(window.sidebar)
+                    {
+                        window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+                    }
+                }
+        
+            }
+            catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+        }
+       【打印】
+               
+function printme()
+{
+document.body.innerHTML=document.getElementById('div1').innerHTML;
+window.print();
+}
+
+          【收藏】  【关闭】
+
+
+
+
+
+
+ 新闻网
+    
+ 信息门户
+    
+ 科研平台
+    
+ 学工系统
+    
+ 本科招生
+    
+ 教务系统
+    
+ 校园宣传审批系统
+    
+ 网络服务
+    
+ 校友网
+    
+ 邮箱登陆
+    
+ 站群检索
+    
+
+
+
+地址：宁夏银川市西夏区贺兰山西路489号　邮编：750021  电话：0951-2077800 宁ICP备05002185  Copyright © 宁夏大学  技术支持：网络与信息管理中心
+// 大的图片广告
+// 根据图片创建id,按钮元素等，实际开发建议使用JSON数据类似
+var htmlAdBtn = '';
+$("#jdAdSlide img").each(function(index, image) {
+    var id = "adImage" + index;
+    htmlAdBtn = htmlAdBtn + '<a href="javascript:" class="jd_ad_btn_a" data-rel="'+ id +'">'+ (index + 1) +'</a>';
+    image.id = id;
+});
+$("#jdAdBtn").html(htmlAdBtn).find("a").powerSwitch({
+    eventType: "hover",
+    classAdd: "active",
+    animation: "fade",
+    autoTime: 5000,
+    onSwitch: function(image) {
+        if (!image.attr("src")) {
+            image.attr("src", image.attr("data-src"));  
+        }
+    }
+}).eq(0).trigger("mouseover");
+
+// 便民服务
+$("#servNav a").powerSwitch({
+    classAdd: "active",
+    eventType: "hover",
+    onSwitch: function() {
+        $("#pointLine").animate({ "left": $(this).position().left}, 200);
+    }
+});
+
+
+
+
+
+宁夏大学党建网
+宁夏大学新闻网
+
+
+微信 
+新浪微博 
+宁夏大学党建网 
+宁夏大学新闻网 window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+

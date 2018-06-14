@@ -1,0 +1,68 @@
+我校2016年度国家社会科学基金项目喜获丰收<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:黑体;
+	panose-1:2 1 6 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"\@黑体";
+	panose-1:2 1 6 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Times New Roman","serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-link:"页眉 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	vsb_tmp-mode:char;
+	border:none;
+	padding:0cm;
+	font-size:9.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-link:"页脚 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	vsb_tmp-mode:char;
+	font-size:9.0pt;
+	font-family:"Times New Roman","serif";}
+p
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:宋体;}
+span.Char
+	{mso-style-name:"页眉 Char";
+	mso-style-link:页眉;}
+span.Char0
+	{mso-style-name:"页脚 Char";
+	mso-style-link:页脚;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	vsb_tmp:15.6pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+ 
+ 
+  
+ 【宁夏大学新闻中心讯  科技处  赵军】2016年度国家社会科学基金年度和西部项目评审立项结果近日相继公示。我校有22项课题公示立项，比上年多7项，占全区立项总数的65%。其中年度项目15项，青年项目2项，西部项目5项，立项率达24%，年度项目和青年项目在全国排名58位。课题覆盖了民族问题研究、中国历史、法学、宗教学、中国文学、新闻学与传播学、马列·科社、语言学、哲学、外国文学和体育学11个学科门类，具体分布在11个教学和科研单位，其中政法学院7项、人文学院5项、马克思主义学院2项、外国语学院、国际教育学院、新闻传播学院、体育学院、西夏学研究院、回族研究院、民族预科教育学院和学术期刊中心各1项。 
+ 为进一步提高2016年度国家社科基金项目的申报质量，学校主要领导明确指出，全校上下一定要高度重视，广泛动员，加强领导，精心组织，在项目选题、论证方面多下功夫，推动申报数和立项数的持续增长。科技处召开了2016年度国家社科基金项目申报动员大会，通过广泛动员，下达申报任务，将任务落实到人。各单位积极开展申报动员与形式审查工作，组织学院学术委员会或有丰富申报经验的教师对申报书进行讨论修改，反复论证课题研究的最佳方案，在保证数量的同时也注重项目申报的质量，个别单位还在学校激励措施的基础上增加单位奖励力度。尤其是政法学院和人文学院在项目申报过程中严把质量关，将课题研究与学术前沿相结合，把握国家社科基金的申报要领，强化选题的特色研究，增强协同创新意识，取得了较好的申报成效。广大教师认真撰写申报书，听取了专家们的意见，经过反复论证、修改，完善了申报材料。这些举措在一定程度上为提高我校国家社科基金项目的申报质量奠定了良好的基础。 
+ 此次获批立项是我校国家社科基金项目申报历史上获准立项取得的较好成绩，将进一步鼓舞我校哲学社会科学科研人员积极申报国家社科基金项目，推动我校哲学社会科学研究的发展。 
+ （责任编辑：胡玥）

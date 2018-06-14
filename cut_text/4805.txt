@@ -1,0 +1,114 @@
+中国 新闻出版 广电报 ： “ ‘ 一带 一路 ’ 文化交流 蓝皮书 ” 研讨会 召开 本报讯   ( 记者 孙海悦 ) 6 月 6 日 ， 《 中 阿 文化交流 发展 报告 ( 2016 ) 》 研讨会 在 京 召开 。 该 报告 是 宁夏大学 国际 教育 学院 与 社会科学文献出版社 共同 策划 的 “ ‘ 一带 一路 ’ 文化交流 蓝皮书 ” 丛书 的 首卷 。 
+ 研讨会 上 ， 报告 主编 宁夏大学 国际 教育 学院 院长 王辉 介绍 了 《 中 阿 文化交流 发展 报告 ( 2016 ) 》 编写 的 意义 和 框架 ， 来自 中国 国际 公共关系 协会 、 中国社会科学院 民族学 与 人类学 研究所 、 中国 现代 国际 关系 研究院 、 宁夏大学 等 单位 的 专家 分别 围绕 框架 内容 从中 阿 关系 、 中国 对 阿 外交 立场 、 中 阿 文化交流 的 分类 和 重点 等 角度 对 《 中 阿 文化交流 发展 报告 ( 2016 ) 》 提出 了 建设性 修改意见 ， 社会科学文献出版社 对 蓝皮书 的 框架 、 规范 、 质量 、 评价 等 进行 了 重点 强调 。 
+ 《 中 阿 文化交流 发展 报告 ( 2016 ) 》 作为 国内 首部 研究 “ 一带 一路 ” 沿线 国家 文化交流 的 蓝皮书 ， 获 文化部 重视 并 立项 支持 ， 中文版 拟于 2017 年 3 月 面世 ， 阿 文版 拟于 2017 年 下半年 推出 。 这 也 将 是 宁夏大学 国际 教育 学院 与 社会科学文献出版社 本年度 合作 的 第四个 成果 ， 前面 3 个 分别 是 ： “ 一带 一路 ” 上 的 文化 — — 中 阿 文化交流 数据库 平台 、 “ 一带 一路 ” 语言 状况 与 语言 政策 大 数据 平台 、 “ ‘ 一带 一路 ’ 国家 语言 政策 研究 ” 丛书 第一卷 。 
+ 来源 ： 中国 新闻出版 广电报 http : / / data . chinaxwcb . com / epaper2016 / epaper / d6279 / d3b / 201606 / 68282 . html ? from = singlemessage & isappinstalled = 0 
+   
+                 
+                 上 一条 ： 国务院 精准 扶贫 工作 成效 第三方 评估 在 宁夏 展开 
+ 
+                 下 一条 ： 学校 召开 2016 届 本专科生 毕业典礼 
+         
+         
+                 function   dosubc42633 ( ) 
+                 { 
+                         try { 
+                                 var   ua   =   navigator . userAgent . toLowerCase ( ) ; 
+                                 if ( ua . indexOf ( " msie   8 " ) > - 1 ) 
+                                 { 
+                                         window . external . AddToFavoritesBar ( document . location . href , document . title , " " ) ; / / IE8 
+                                 } else { 
+                                         if   ( document . all )   
+                                         { 
+                                                 window . external . addFavorite ( document . location . href ,   document . title ) ; 
+                                         } else   if ( window . sidebar ) 
+                                         { 
+                                                 window . sidebar . addPanel (   document . title ,   document . location . href ,   " " ) ; / / firefox 
+                                         } 
+                                 } 
+                 
+                         } 
+                         catch   ( e ) { alert ( " 无法 自动 添加 到 收藏夹 ， 请 使用   Ctrl   +   d   手动 添加 " ) ; } 
+                 } 
+               【 打印 】 
+                               
+ function   printme ( ) 
+ { 
+ document . body . innerHTML = document . getElementById ( ' div1 ' ) . innerHTML ; 
+ window . print ( ) ; 
+ } 
+ 
+                     【 收藏 】     【 关闭 】 
+ 
+ 
+ 
+ 
+ 
+ 
+   新闻网 
+         
+   信息 门户 
+         
+   科研 平台 
+         
+   学工 系统 
+         
+   本科 招生 
+         
+   教务 系统 
+         
+   校园 宣传 审批 系统 
+         
+   网络服务 
+         
+   校友网 
+         
+   邮箱 登陆 
+         
+   站 群 检索 
+         
+ 
+ 
+ 
+ 地址 ： 宁夏 银川市 西夏区 贺兰山 西路 489 号 　 邮编 ： 750021     电话 ： 0951 - 2077800   宁 ICP 备 05002185     Copyright   ©   宁夏大学     技术支持 ： 网络 与 信息管理 中心 
+ / /   大 的 图片 广告 
+ / /   根据 图片 创建 id , 按钮 元素 等 ， 实际 开发 建议 使用 JSON 数据 类似 
+ var   htmlAdBtn   =   ' ' ; 
+ $ ( " # jdAdSlide   img " ) . each ( function ( index ,   image )   { 
+         var   id   =   " adImage "   +   index ; 
+         htmlAdBtn   =   htmlAdBtn   +   ' < a   href = " javascript : "   class = " jd _ ad _ btn _ a "   data - rel = " ' +   id   + ' " > ' +   ( index   +   1 )   + ' < / a > ' ; 
+         image . id   =   id ; 
+ } ) ; 
+ $ ( " # jdAdBtn " ) . html ( htmlAdBtn ) . find ( " a " ) . powerSwitch ( { 
+         eventType :   " hover " , 
+         classAdd :   " active " , 
+         animation :   " fade " , 
+         autoTime :   5000 , 
+         onSwitch :   function ( image )   { 
+                 if   ( ! image . attr ( " src " ) )   { 
+                         image . attr ( " src " ,   image . attr ( " data - src " ) ) ;     
+                 } 
+         } 
+ } ) . eq ( 0 ) . trigger ( " mouseover " ) ; 
+ 
+ / /   便民服务 
+ $ ( " # servNav   a " ) . powerSwitch ( { 
+         classAdd :   " active " , 
+         eventType :   " hover " , 
+         onSwitch :   function ( )   { 
+                 $ ( " # pointLine " ) . animate ( {   " left " :   $ ( this ) . position ( ) . left } ,   200 ) ; 
+         } 
+ } ) ; 
+ 
+ 
+ 
+ 
+ 
+ 宁夏大学 党建网 
+ 宁夏大学 新闻网 
+ 
+ 
+ 微信   
+ 新浪 微博   
+ 宁夏大学 党建网   
+ 宁夏大学 新闻网   window ._ bd _ share _ config = { " common " : { " bdSnsKey " : { } , " bdText " : " " , " bdMini " : " 1 " , " bdMiniList " : false , " bdPic " : " " , " bdStyle " : " 1 " , " bdSize " : " 24 " } , " share " : { } } ; with ( document ) 0 [ ( getElementsByTagName ( ' head ' ) [ 0 ] | | body ) . appendChild ( createElement ( ' script ' ) ) . src = ' http : / / bdimg . share . baidu . com / static / api / js / share . js ? v = 89860593 . js ? cdnversion = ' + ~ ( - new   Date ( ) / 36e5 ) ] ; 
+ 

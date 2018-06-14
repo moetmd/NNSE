@@ -1,0 +1,115 @@
+我校 辅导员 王兵 荣膺 “ 第八届 全国 高校 辅导员 年度人物 ” 称号 【 宁夏大学 新闻 中心 讯   学生处   曹楠 】 近日 ， 由 教育部 思想 政治 工作 司 指导 ， 中国 高教 学会 辅导员 工作 研究会 和 中国 教育 报 主办 的 “ 第八届 全国 高校 辅导员 年度人物 ” 评选 结果 揭晓 ， 我校 辅导员 王兵 荣获 “ 第八届 全国 高校 辅导员 年度人物 ” 。 王兵 老师 是 本届 宁夏 高校 唯一 入选 辅导员 ， 也 是 我校 乃至 全区 辅导员 第一次 荣获 此项 荣誉 。 
+ 据悉 ， 全国 高校 辅导员 年度人物 评选活动 从 2008 年 开始 ， 迄今已 举办 了 八届 ， 是 辅导员 系列 规格 最高 、 最为 权威 的 工作 业绩 评比 。 活动 自 2015 年 12 月 启动 以来 ， 受到 各地 、 各 高校 的 广泛 关注 ， 全国 各省 区 （ 市 ） 教育 主管部门 共 推荐 684 名 辅导员 参与 本次 评选活动 。 经过 入围 、 提名 、 终评 答辩 三个 阶段 ， 最终 评选 出 第八届 全国 高校 辅导员 年度人物 11 名 、 特别 荣誉奖 1 名 、 提名奖 39 名 和 入围奖 150 名 。 
+ 王兵 老师 在 基层 一线 辅导员 岗位 上 工作 了 7 年 ， 具有 较 高 的 职业 能力 和 专业 水平 ， 在 为人师表 、 爱岗敬业 、 无私奉献 等 方面 具有 突出表现 ， 先后 获评 宁夏大学 优秀 共产党员 ， 宁夏大学 团学 工作 先进个人 ， 宁夏大学 品牌 教师 ， 第十届 宁夏 自然科学 优秀 学术论文 ， 宁夏回族自治区 第一届 辅导员 职业 能力 大赛 二等奖 等 。 
+ 此次 王兵 老师 获评 “ 全国 辅导员 年度人物 ” ， 充分 展示 了 近年来 我校 辅导员 队伍 建设 的 喜人 成果 ， 进一步 激励 我校 辅导员 在 各自 岗位 上 努力 拼搏 、 精益求精 、 追求 卓越 ， 帮助 青年 学生 成长 的 同时 ， 不断 夯实 工作 基础 、 提高 履职 能力 ， 努力 开创 学生 思想 政治 教育 工作 的 新 局面 。 
+ （ 责任编辑 ： 徐静 ） 
+   
+                 
+                 上 一条 ： 我校 召开 参加 全国 第四轮 学科 评估 工作 会议 
+ 
+                 下 一条 ： 我校 王岩森 等 3 名 教师 荣获 2015 - 2016 年 “ 明德 教师 奖 ” 
+         
+         
+                 function   dosubc42633 ( ) 
+                 { 
+                         try { 
+                                 var   ua   =   navigator . userAgent . toLowerCase ( ) ; 
+                                 if ( ua . indexOf ( " msie   8 " ) > - 1 ) 
+                                 { 
+                                         window . external . AddToFavoritesBar ( document . location . href , document . title , " " ) ; / / IE8 
+                                 } else { 
+                                         if   ( document . all )   
+                                         { 
+                                                 window . external . addFavorite ( document . location . href ,   document . title ) ; 
+                                         } else   if ( window . sidebar ) 
+                                         { 
+                                                 window . sidebar . addPanel (   document . title ,   document . location . href ,   " " ) ; / / firefox 
+                                         } 
+                                 } 
+                 
+                         } 
+                         catch   ( e ) { alert ( " 无法 自动 添加 到 收藏夹 ， 请 使用   Ctrl   +   d   手动 添加 " ) ; } 
+                 } 
+               【 打印 】 
+                               
+ function   printme ( ) 
+ { 
+ document . body . innerHTML = document . getElementById ( ' div1 ' ) . innerHTML ; 
+ window . print ( ) ; 
+ } 
+ 
+                     【 收藏 】     【 关闭 】 
+ 
+ 
+ 
+ 
+ 
+ 
+   新闻网 
+         
+   信息 门户 
+         
+   科研 平台 
+         
+   学工 系统 
+         
+   本科 招生 
+         
+   教务 系统 
+         
+   校园 宣传 审批 系统 
+         
+   网络服务 
+         
+   校友网 
+         
+   邮箱 登陆 
+         
+   站 群 检索 
+         
+ 
+ 
+ 
+ 地址 ： 宁夏 银川市 西夏区 贺兰山 西路 489 号 　 邮编 ： 750021     电话 ： 0951 - 2077800   宁 ICP 备 05002185     Copyright   ©   宁夏大学     技术支持 ： 网络 与 信息管理 中心 
+ / /   大 的 图片 广告 
+ / /   根据 图片 创建 id , 按钮 元素 等 ， 实际 开发 建议 使用 JSON 数据 类似 
+ var   htmlAdBtn   =   ' ' ; 
+ $ ( " # jdAdSlide   img " ) . each ( function ( index ,   image )   { 
+         var   id   =   " adImage "   +   index ; 
+         htmlAdBtn   =   htmlAdBtn   +   ' < a   href = " javascript : "   class = " jd _ ad _ btn _ a "   data - rel = " ' +   id   + ' " > ' +   ( index   +   1 )   + ' < / a > ' ; 
+         image . id   =   id ; 
+ } ) ; 
+ $ ( " # jdAdBtn " ) . html ( htmlAdBtn ) . find ( " a " ) . powerSwitch ( { 
+         eventType :   " hover " , 
+         classAdd :   " active " , 
+         animation :   " fade " , 
+         autoTime :   5000 , 
+         onSwitch :   function ( image )   { 
+                 if   ( ! image . attr ( " src " ) )   { 
+                         image . attr ( " src " ,   image . attr ( " data - src " ) ) ;     
+                 } 
+         } 
+ } ) . eq ( 0 ) . trigger ( " mouseover " ) ; 
+ 
+ / /   便民服务 
+ $ ( " # servNav   a " ) . powerSwitch ( { 
+         classAdd :   " active " , 
+         eventType :   " hover " , 
+         onSwitch :   function ( )   { 
+                 $ ( " # pointLine " ) . animate ( {   " left " :   $ ( this ) . position ( ) . left } ,   200 ) ; 
+         } 
+ } ) ; 
+ 
+ 
+ 
+ 
+ 
+ 宁夏大学 党建网 
+ 宁夏大学 新闻网 
+ 
+ 
+ 微信   
+ 新浪 微博   
+ 宁夏大学 党建网   
+ 宁夏大学 新闻网   window ._ bd _ share _ config = { " common " : { " bdSnsKey " : { } , " bdText " : " " , " bdMini " : " 1 " , " bdMiniList " : false , " bdPic " : " " , " bdStyle " : " 1 " , " bdSize " : " 24 " } , " share " : { } } ; with ( document ) 0 [ ( getElementsByTagName ( ' head ' ) [ 0 ] | | body ) . appendChild ( createElement ( ' script ' ) ) . src = ' http : / / bdimg . share . baidu . com / static / api / js / share . js ? v = 89860593 . js ? cdnversion = ' + ~ ( - new   Date ( ) / 36e5 ) ] ; 
+ 

@@ -1,0 +1,114 @@
+中国新闻出版广电报：“‘一带一路’文化交流蓝皮书”研讨会召开本报讯 (记者孙海悦)6月6日，《中阿文化交流发展报告(2016)》研讨会在京召开。该报告是宁夏大学国际教育学院与社会科学文献出版社共同策划的“‘一带一路’文化交流蓝皮书”丛书的首卷。
+研讨会上，报告主编宁夏大学国际教育学院院长王辉介绍了《中阿文化交流发展报告(2016)》编写的意义和框架，来自中国国际公共关系协会、中国社会科学院民族学与人类学研究所、中国现代国际关系研究院、宁夏大学等单位的专家分别围绕框架内容从中阿关系、中国对阿外交立场、中阿文化交流的分类和重点等角度对《中阿文化交流发展报告(2016)》提出了建设性修改意见，社会科学文献出版社对蓝皮书的框架、规范、质量、评价等进行了重点强调。
+《中阿文化交流发展报告(2016)》作为国内首部研究“一带一路”沿线国家文化交流的蓝皮书，获文化部重视并立项支持，中文版拟于2017年3月面世，阿文版拟于2017年下半年推出。这也将是宁夏大学国际教育学院与社会科学文献出版社本年度合作的第四个成果，前面3个分别是：“一带一路”上的文化——中阿文化交流数据库平台、“一带一路”语言状况与语言政策大数据平台、“‘一带一路’国家语言政策研究”丛书第一卷。
+来源：中国新闻出版广电报http://data.chinaxwcb.com/epaper2016/epaper/d6279/d3b/201606/68282.html?from=singlemessage&isappinstalled=0
+ 
+        
+        上一条：国务院精准扶贫工作成效第三方评估在宁夏展开
+
+        下一条：学校召开2016届本专科生毕业典礼
+    
+    
+        function dosubc42633()
+        {
+            try{
+                var ua = navigator.userAgent.toLowerCase();
+                if(ua.indexOf("msie 8")>-1)
+                {
+                    window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+                }else{
+                    if (document.all) 
+                    {
+                        window.external.addFavorite(document.location.href, document.title);
+                    }else if(window.sidebar)
+                    {
+                        window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+                    }
+                }
+        
+            }
+            catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+        }
+       【打印】
+               
+function printme()
+{
+document.body.innerHTML=document.getElementById('div1').innerHTML;
+window.print();
+}
+
+          【收藏】  【关闭】
+
+
+
+
+
+
+ 新闻网
+    
+ 信息门户
+    
+ 科研平台
+    
+ 学工系统
+    
+ 本科招生
+    
+ 教务系统
+    
+ 校园宣传审批系统
+    
+ 网络服务
+    
+ 校友网
+    
+ 邮箱登陆
+    
+ 站群检索
+    
+
+
+
+地址：宁夏银川市西夏区贺兰山西路489号　邮编：750021  电话：0951-2077800 宁ICP备05002185  Copyright © 宁夏大学  技术支持：网络与信息管理中心
+// 大的图片广告
+// 根据图片创建id,按钮元素等，实际开发建议使用JSON数据类似
+var htmlAdBtn = '';
+$("#jdAdSlide img").each(function(index, image) {
+    var id = "adImage" + index;
+    htmlAdBtn = htmlAdBtn + '<a href="javascript:" class="jd_ad_btn_a" data-rel="'+ id +'">'+ (index + 1) +'</a>';
+    image.id = id;
+});
+$("#jdAdBtn").html(htmlAdBtn).find("a").powerSwitch({
+    eventType: "hover",
+    classAdd: "active",
+    animation: "fade",
+    autoTime: 5000,
+    onSwitch: function(image) {
+        if (!image.attr("src")) {
+            image.attr("src", image.attr("data-src"));  
+        }
+    }
+}).eq(0).trigger("mouseover");
+
+// 便民服务
+$("#servNav a").powerSwitch({
+    classAdd: "active",
+    eventType: "hover",
+    onSwitch: function() {
+        $("#pointLine").animate({ "left": $(this).position().left}, 200);
+    }
+});
+
+
+
+
+
+宁夏大学党建网
+宁夏大学新闻网
+
+
+微信 
+新浪微博 
+宁夏大学党建网 
+宁夏大学新闻网 window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+

@@ -1,0 +1,118 @@
+我校 幼儿园 成功 举办 “ 青春 无限   弘扬 美德 ” 教师 辩论赛 【 宁夏大学 新闻 中心 讯 后勤 集团 幼儿教育 服务中心 讯   闫秋菊 】 为了 树立 师德 新风尚 ， 为 教师 提供 展示 风采 的 舞台 。 5 月 7 日 ， 宁夏大学 幼儿园 “ 青春 无限 ， 弘扬 美德 ” 教师 辩论赛 决赛 落下 帷幕 。 
+ 
+ 本次 辩论赛 前期 的 初赛 、 复赛 ， 最终 获胜 的 四组 于 5 月 7 日 下午 进行 决赛 。 决赛 中 ， 双方 围绕 “ 父母 应不应该 用 金钱 奖励 孩子   ” 和 “ 代沟 主要 在 父母 还是 孩子 ” 两个 主题 展开 激烈 地 辩论 。 整个 辩论 过程 ， 正反 双方 四组 都 使出 了 浑身解数 ， 双方 辩手 措辞 准确 ， 思维 敏捷 ， 观点鲜明 ， 引经据典 ， 争锋 相对 却 又 不失 幽默 ， 赢得 满堂喝彩 ， 掌声 连连 。 在 开篇 立论 、 攻辩 、 自由 辩论 、 总结 陈词 四个 环节 ， 教师 利用 自己 丰富 的 业务学习 能力 和 专业知识 ， 碰撞 、 交集 出 不同 思想 火花 。 
+ 
+ 
+ 
+ 本次 辩论赛 既 展示 出 了 我校 幼儿园 教师 善于 学习 、 敢于 追求 的 风貌 ， 也 显示 了 广大 幼儿教师 扎实 的 功底 和 严谨 的 作风 ， 体现 了 我校 幼儿教师 以人为本 、 以 幼儿 发展 为本 、 努力 锻炼 成为 “ 先进 教育 理念 的 传播者 、 幼儿教师 专业 成长 的 引领者 ” 的 崭新 风范 ！ 
+ （ 责任编辑 ： 徐静 ） 
+   
+                 
+                 上 一条 ： 我校 王岩森 等 3 名 教师 荣获 2015 - 2016 年 “ 明德 教师 奖 ” 
+ 
+                 下 一条 ： 宁夏大学 “ 两节 ” 之 “ 燕宝 爱心 在 行动 ” 第一届 公益行 系列 活动 拉开序幕 
+         
+         
+                 function   dosubc42633 ( ) 
+                 { 
+                         try { 
+                                 var   ua   =   navigator . userAgent . toLowerCase ( ) ; 
+                                 if ( ua . indexOf ( " msie   8 " ) > - 1 ) 
+                                 { 
+                                         window . external . AddToFavoritesBar ( document . location . href , document . title , " " ) ; / / IE8 
+                                 } else { 
+                                         if   ( document . all )   
+                                         { 
+                                                 window . external . addFavorite ( document . location . href ,   document . title ) ; 
+                                         } else   if ( window . sidebar ) 
+                                         { 
+                                                 window . sidebar . addPanel (   document . title ,   document . location . href ,   " " ) ; / / firefox 
+                                         } 
+                                 } 
+                 
+                         } 
+                         catch   ( e ) { alert ( " 无法 自动 添加 到 收藏夹 ， 请 使用   Ctrl   +   d   手动 添加 " ) ; } 
+                 } 
+               【 打印 】 
+                               
+ function   printme ( ) 
+ { 
+ document . body . innerHTML = document . getElementById ( ' div1 ' ) . innerHTML ; 
+ window . print ( ) ; 
+ } 
+ 
+                     【 收藏 】     【 关闭 】 
+ 
+ 
+ 
+ 
+ 
+ 
+   新闻网 
+         
+   信息 门户 
+         
+   科研 平台 
+         
+   学工 系统 
+         
+   本科 招生 
+         
+   教务 系统 
+         
+   校园 宣传 审批 系统 
+         
+   网络服务 
+         
+   校友网 
+         
+   邮箱 登陆 
+         
+   站 群 检索 
+         
+ 
+ 
+ 
+ 地址 ： 宁夏 银川市 西夏区 贺兰山 西路 489 号 　 邮编 ： 750021     电话 ： 0951 - 2077800   宁 ICP 备 05002185     Copyright   ©   宁夏大学     技术支持 ： 网络 与 信息管理 中心 
+ / /   大 的 图片 广告 
+ / /   根据 图片 创建 id , 按钮 元素 等 ， 实际 开发 建议 使用 JSON 数据 类似 
+ var   htmlAdBtn   =   ' ' ; 
+ $ ( " # jdAdSlide   img " ) . each ( function ( index ,   image )   { 
+         var   id   =   " adImage "   +   index ; 
+         htmlAdBtn   =   htmlAdBtn   +   ' < a   href = " javascript : "   class = " jd _ ad _ btn _ a "   data - rel = " ' +   id   + ' " > ' +   ( index   +   1 )   + ' < / a > ' ; 
+         image . id   =   id ; 
+ } ) ; 
+ $ ( " # jdAdBtn " ) . html ( htmlAdBtn ) . find ( " a " ) . powerSwitch ( { 
+         eventType :   " hover " , 
+         classAdd :   " active " , 
+         animation :   " fade " , 
+         autoTime :   5000 , 
+         onSwitch :   function ( image )   { 
+                 if   ( ! image . attr ( " src " ) )   { 
+                         image . attr ( " src " ,   image . attr ( " data - src " ) ) ;     
+                 } 
+         } 
+ } ) . eq ( 0 ) . trigger ( " mouseover " ) ; 
+ 
+ / /   便民服务 
+ $ ( " # servNav   a " ) . powerSwitch ( { 
+         classAdd :   " active " , 
+         eventType :   " hover " , 
+         onSwitch :   function ( )   { 
+                 $ ( " # pointLine " ) . animate ( {   " left " :   $ ( this ) . position ( ) . left } ,   200 ) ; 
+         } 
+ } ) ; 
+ 
+ 
+ 
+ 
+ 
+ 宁夏大学 党建网 
+ 宁夏大学 新闻网 
+ 
+ 
+ 微信   
+ 新浪 微博   
+ 宁夏大学 党建网   
+ 宁夏大学 新闻网   window ._ bd _ share _ config = { " common " : { " bdSnsKey " : { } , " bdText " : " " , " bdMini " : " 1 " , " bdMiniList " : false , " bdPic " : " " , " bdStyle " : " 1 " , " bdSize " : " 24 " } , " share " : { } } ; with ( document ) 0 [ ( getElementsByTagName ( ' head ' ) [ 0 ] | | body ) . appendChild ( createElement ( ' script ' ) ) . src = ' http : / / bdimg . share . baidu . com / static / api / js / share . js ? v = 89860593 . js ? cdnversion = ' + ~ ( - new   Date ( ) / 36e5 ) ] ; 
+ 

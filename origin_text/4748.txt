@@ -1,0 +1,114 @@
+我校王岩森等3名教师荣获2015-2016年“明德教师奖”【宁夏大学新闻中心讯 教务处 陈伟】近日，根据中国国际文化交流基金会《关于2015-2016年明德教师奖获奖名单的复函》，我校人文学院王岩森、教育学院张玲、马克思主义学院党锐锋3名教师荣获2015-2016年“明德教师奖”。
+本次“明德教师奖”评选，教务处根据《宁夏大学“明德教师奖”实施细则（试行）》有关规定，经个人申报、学生推选、学院初评、学院推荐、教务处审核以及学校教学工作指导委员会评审、学校“明德奖”评审领导小组审定，推荐了王岩森等3名教师作为我校获选人。明德基金管理委员会对我校明德教师奖推荐材料进行了审核，在中国国际文化交流基金会网站对获奖名单进行了公示，确定我校王岩森等3名教师获得2015-2016年“明德教师奖”。
+2012年12月，香港知名慈善家钟瀚德先生通过中国国际文化交流中心和中国国际文化交流基金会在我校捐资设立了“明德教师奖”。该奖项旨在提倡崇教之风，奖励具有精湛的教学业务能力和良好道德素养的在校教师，支持他们培养优秀的后备教师、为教育兴邦事业做出积极贡献。
+（责任编辑：徐静）
+ 
+        
+        上一条：我校辅导员王兵荣膺“第八届全国高校辅导员年度人物”称号
+
+        下一条：我校幼儿园成功举办“青春无限 弘扬美德”教师辩论赛
+    
+    
+        function dosubc42633()
+        {
+            try{
+                var ua = navigator.userAgent.toLowerCase();
+                if(ua.indexOf("msie 8")>-1)
+                {
+                    window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+                }else{
+                    if (document.all) 
+                    {
+                        window.external.addFavorite(document.location.href, document.title);
+                    }else if(window.sidebar)
+                    {
+                        window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+                    }
+                }
+        
+            }
+            catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+        }
+       【打印】
+               
+function printme()
+{
+document.body.innerHTML=document.getElementById('div1').innerHTML;
+window.print();
+}
+
+          【收藏】  【关闭】
+
+
+
+
+
+
+ 新闻网
+    
+ 信息门户
+    
+ 科研平台
+    
+ 学工系统
+    
+ 本科招生
+    
+ 教务系统
+    
+ 校园宣传审批系统
+    
+ 网络服务
+    
+ 校友网
+    
+ 邮箱登陆
+    
+ 站群检索
+    
+
+
+
+地址：宁夏银川市西夏区贺兰山西路489号　邮编：750021  电话：0951-2077800 宁ICP备05002185  Copyright © 宁夏大学  技术支持：网络与信息管理中心
+// 大的图片广告
+// 根据图片创建id,按钮元素等，实际开发建议使用JSON数据类似
+var htmlAdBtn = '';
+$("#jdAdSlide img").each(function(index, image) {
+    var id = "adImage" + index;
+    htmlAdBtn = htmlAdBtn + '<a href="javascript:" class="jd_ad_btn_a" data-rel="'+ id +'">'+ (index + 1) +'</a>';
+    image.id = id;
+});
+$("#jdAdBtn").html(htmlAdBtn).find("a").powerSwitch({
+    eventType: "hover",
+    classAdd: "active",
+    animation: "fade",
+    autoTime: 5000,
+    onSwitch: function(image) {
+        if (!image.attr("src")) {
+            image.attr("src", image.attr("data-src"));  
+        }
+    }
+}).eq(0).trigger("mouseover");
+
+// 便民服务
+$("#servNav a").powerSwitch({
+    classAdd: "active",
+    eventType: "hover",
+    onSwitch: function() {
+        $("#pointLine").animate({ "left": $(this).position().left}, 200);
+    }
+});
+
+
+
+
+
+宁夏大学党建网
+宁夏大学新闻网
+
+
+微信 
+新浪微博 
+宁夏大学党建网 
+宁夏大学新闻网 window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+

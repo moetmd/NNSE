@@ -1,0 +1,114 @@
+我校 召开 参加 全国 第四轮 学科 评估 工作 会议 【 宁夏大学 新闻 中心 讯   发展 规划 与 学科建设 处 】 5 月 4 日 下午 ， 谢应忠 副校长 主持 召开 了 我校 参加 全国 第四轮 学科 评估 工作 会议 ， 传达 学习 了 全国 第四轮 学科 评估 要求 ， 对 我校 参评 工作 各项任务 进行 了 部署 。 教学科研 单位 行政 负责人 、 相关 部门 负责人 参加 了 会议 。 
+ 发展 规划 与 学科建设 处 负责人 就 第四轮 学科 评估 指标体系 、 工作 程序 以及 我校 工作 方案 进行 了 详细 说明 。 
+ 谢应忠 在讲话中 强调 ， 一是 要 充分认识 学科 评估 工作 的 重要性 。 开展 学科 评估 工作 是 落实 《 国家 中长期 教育 改革 和 发展 规划 纲要 （ 2010 — 2020 年 ） 》 《 统筹 推进 世界 一流大学 和 一流 学科建设 总体方案 》 以及 国家 关于 全面 深化 高等教育 综合 改革 、 全面 提升 研究生 教育 质量 有关 精神 的 重要 举措 。 参与 全国性 的 学科 评估 ， 是 对 我校 近年来 学科建设 成效 的 一次 全面 检查 。 通过 评估 ， 可以 及时 了解 我校 学科建设 的 优势 和 不足 ， 对 进一步 提升 研究生 培养 质量 、 学科建设 整体 水平 以及 实现 西部 一流 教学 研究型 大学 的 目标 具有 非常 重要 的 意义 。 二是 要 高度重视 学科 评估 工作 。 此次 学科 评估 时间 紧 、 任务 重 ， 相关 部门 、 学院 和 科研单位 要 组建 精干 团队 专门 负责 此项工作 ， 并 根据 评估 要求 科学 分工 、 紧密配合 ， 确保 参评 材料 的 质量 。 各 参评 学科 要 充分 理解 和 掌握 评估 体系 内涵 、 特点 ， 做好 学科 资源 的 整合 与 优化 ， 最大 程度 展现 学科 实力 和 特色 。 三是 运用 好 学科 评估 结果 。 此次 学科 评估 结果 将 作为 “ 十三 五 ” 期间 开展 学科 资源配置 的 重要依据 。 
+ （ 责任编辑 ： 徐静 ） 
+   
+                 
+                 上 一条 ： 校团委 荣获 自治区 2016 年 五四 系列 主题 活动 最佳 组织奖 
+ 
+                 下 一条 ： 我校 辅导员 王兵 荣膺 “ 第八届 全国 高校 辅导员 年度人物 ” 称号 
+         
+         
+                 function   dosubc42633 ( ) 
+                 { 
+                         try { 
+                                 var   ua   =   navigator . userAgent . toLowerCase ( ) ; 
+                                 if ( ua . indexOf ( " msie   8 " ) > - 1 ) 
+                                 { 
+                                         window . external . AddToFavoritesBar ( document . location . href , document . title , " " ) ; / / IE8 
+                                 } else { 
+                                         if   ( document . all )   
+                                         { 
+                                                 window . external . addFavorite ( document . location . href ,   document . title ) ; 
+                                         } else   if ( window . sidebar ) 
+                                         { 
+                                                 window . sidebar . addPanel (   document . title ,   document . location . href ,   " " ) ; / / firefox 
+                                         } 
+                                 } 
+                 
+                         } 
+                         catch   ( e ) { alert ( " 无法 自动 添加 到 收藏夹 ， 请 使用   Ctrl   +   d   手动 添加 " ) ; } 
+                 } 
+               【 打印 】 
+                               
+ function   printme ( ) 
+ { 
+ document . body . innerHTML = document . getElementById ( ' div1 ' ) . innerHTML ; 
+ window . print ( ) ; 
+ } 
+ 
+                     【 收藏 】     【 关闭 】 
+ 
+ 
+ 
+ 
+ 
+ 
+   新闻网 
+         
+   信息 门户 
+         
+   科研 平台 
+         
+   学工 系统 
+         
+   本科 招生 
+         
+   教务 系统 
+         
+   校园 宣传 审批 系统 
+         
+   网络服务 
+         
+   校友网 
+         
+   邮箱 登陆 
+         
+   站 群 检索 
+         
+ 
+ 
+ 
+ 地址 ： 宁夏 银川市 西夏区 贺兰山 西路 489 号 　 邮编 ： 750021     电话 ： 0951 - 2077800   宁 ICP 备 05002185     Copyright   ©   宁夏大学     技术支持 ： 网络 与 信息管理 中心 
+ / /   大 的 图片 广告 
+ / /   根据 图片 创建 id , 按钮 元素 等 ， 实际 开发 建议 使用 JSON 数据 类似 
+ var   htmlAdBtn   =   ' ' ; 
+ $ ( " # jdAdSlide   img " ) . each ( function ( index ,   image )   { 
+         var   id   =   " adImage "   +   index ; 
+         htmlAdBtn   =   htmlAdBtn   +   ' < a   href = " javascript : "   class = " jd _ ad _ btn _ a "   data - rel = " ' +   id   + ' " > ' +   ( index   +   1 )   + ' < / a > ' ; 
+         image . id   =   id ; 
+ } ) ; 
+ $ ( " # jdAdBtn " ) . html ( htmlAdBtn ) . find ( " a " ) . powerSwitch ( { 
+         eventType :   " hover " , 
+         classAdd :   " active " , 
+         animation :   " fade " , 
+         autoTime :   5000 , 
+         onSwitch :   function ( image )   { 
+                 if   ( ! image . attr ( " src " ) )   { 
+                         image . attr ( " src " ,   image . attr ( " data - src " ) ) ;     
+                 } 
+         } 
+ } ) . eq ( 0 ) . trigger ( " mouseover " ) ; 
+ 
+ / /   便民服务 
+ $ ( " # servNav   a " ) . powerSwitch ( { 
+         classAdd :   " active " , 
+         eventType :   " hover " , 
+         onSwitch :   function ( )   { 
+                 $ ( " # pointLine " ) . animate ( {   " left " :   $ ( this ) . position ( ) . left } ,   200 ) ; 
+         } 
+ } ) ; 
+ 
+ 
+ 
+ 
+ 
+ 宁夏大学 党建网 
+ 宁夏大学 新闻网 
+ 
+ 
+ 微信   
+ 新浪 微博   
+ 宁夏大学 党建网   
+ 宁夏大学 新闻网   window ._ bd _ share _ config = { " common " : { " bdSnsKey " : { } , " bdText " : " " , " bdMini " : " 1 " , " bdMiniList " : false , " bdPic " : " " , " bdStyle " : " 1 " , " bdSize " : " 24 " } , " share " : { } } ; with ( document ) 0 [ ( getElementsByTagName ( ' head ' ) [ 0 ] | | body ) . appendChild ( createElement ( ' script ' ) ) . src = ' http : / / bdimg . share . baidu . com / static / api / js / share . js ? v = 89860593 . js ? cdnversion = ' + ~ ( - new   Date ( ) / 36e5 ) ] ; 
+ 

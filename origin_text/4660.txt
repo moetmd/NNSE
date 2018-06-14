@@ -1,0 +1,120 @@
+畅谈博者人生感悟学术大道
+								
+								
+								
+									——宁夏...【宁夏大学新闻中心讯 学生记者 齐迎香 权俪银】6月1日下午，金波论坛第165期在怀远校区研究生楼报告厅举行，美国韦恩州立大学终身教授陈文博士以“基于观测器的故障诊断与应用”为题做了学术讲座。
+讲座中，陈文博士就题目“基于观测器的故障诊断与应用”作了学术解释，阐述了故障以及故障诊断的基本理论。就故障检测所用到的模型——数量与质量模型，陈文博士也作了解释说明。最让现场观众关注的是陈文博士关于观测器种类及其特征的演说。在演说过程中，陈文博士不仅向大家介绍了Luenberger、滑动模、自适应等传统观测器，而且还与大家分享了他个人在这方面的新研究，即学习观测器。讲座结束后，陈文博士与在座的师生就自适应探测器抗噪声能力与设备在线运行检测和数据采集，故障关系的查找以及常见差异对于故障检测的影响等方面作了深度分析与解答。
+同学们从本次金波论坛中既了解到了最前沿的专业知识，又有对学生未来规划的指导。
+主讲人简介
+陈文博士, 教授，1997年到1999年新加坡南洋理工大学攻读硕士学位，2004年于加拿大西蒙菲莎大学(Simon Fraser University, Burnaby, BC, Canada)获得博士学位，2005-2007年在路易斯安娜大学拉法叶分校(University of Louisiana at Lafayette)从事了两年博士后研究。而后, 在德克萨斯州休斯顿市一家国际级大公司Invensys-Triconex作为控制系统工程师。陈文博士于2009年加入了美国韦恩州立大学工程技术部任助理教授(Division of Engineering Technology, Wayne State University, Detroit, Michigan)。2016年获得终身教授岗位。
+（责任编辑：徐静）
+ 
+        
+        上一条：我校召开推进哲学社会科学科研工作座谈会
+
+        下一条：我校第三届“联通杯”文明交通演讲比赛决赛圆满落幕
+    
+    
+        function dosubc42633()
+        {
+            try{
+                var ua = navigator.userAgent.toLowerCase();
+                if(ua.indexOf("msie 8")>-1)
+                {
+                    window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+                }else{
+                    if (document.all) 
+                    {
+                        window.external.addFavorite(document.location.href, document.title);
+                    }else if(window.sidebar)
+                    {
+                        window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+                    }
+                }
+        
+            }
+            catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+        }
+       【打印】
+               
+function printme()
+{
+document.body.innerHTML=document.getElementById('div1').innerHTML;
+window.print();
+}
+
+          【收藏】  【关闭】
+
+
+
+
+
+
+ 新闻网
+    
+ 信息门户
+    
+ 科研平台
+    
+ 学工系统
+    
+ 本科招生
+    
+ 教务系统
+    
+ 校园宣传审批系统
+    
+ 网络服务
+    
+ 校友网
+    
+ 邮箱登陆
+    
+ 站群检索
+    
+
+
+
+地址：宁夏银川市西夏区贺兰山西路489号　邮编：750021  电话：0951-2077800 宁ICP备05002185  Copyright © 宁夏大学  技术支持：网络与信息管理中心
+// 大的图片广告
+// 根据图片创建id,按钮元素等，实际开发建议使用JSON数据类似
+var htmlAdBtn = '';
+$("#jdAdSlide img").each(function(index, image) {
+    var id = "adImage" + index;
+    htmlAdBtn = htmlAdBtn + '<a href="javascript:" class="jd_ad_btn_a" data-rel="'+ id +'">'+ (index + 1) +'</a>';
+    image.id = id;
+});
+$("#jdAdBtn").html(htmlAdBtn).find("a").powerSwitch({
+    eventType: "hover",
+    classAdd: "active",
+    animation: "fade",
+    autoTime: 5000,
+    onSwitch: function(image) {
+        if (!image.attr("src")) {
+            image.attr("src", image.attr("data-src"));  
+        }
+    }
+}).eq(0).trigger("mouseover");
+
+// 便民服务
+$("#servNav a").powerSwitch({
+    classAdd: "active",
+    eventType: "hover",
+    onSwitch: function() {
+        $("#pointLine").animate({ "left": $(this).position().left}, 200);
+    }
+});
+
+
+
+
+
+宁夏大学党建网
+宁夏大学新闻网
+
+
+微信 
+新浪微博 
+宁夏大学党建网 
+宁夏大学新闻网 window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+

@@ -1,0 +1,114 @@
+我校召开参加全国第四轮学科评估工作会议【宁夏大学新闻中心讯 发展规划与学科建设处】5月4日下午，谢应忠副校长主持召开了我校参加全国第四轮学科评估工作会议，传达学习了全国第四轮学科评估要求，对我校参评工作各项任务进行了部署。教学科研单位行政负责人、相关部门负责人参加了会议。
+发展规划与学科建设处负责人就第四轮学科评估指标体系、工作程序以及我校工作方案进行了详细说明。
+谢应忠在讲话中强调，一是要充分认识学科评估工作的重要性。开展学科评估工作是落实《国家中长期教育改革和发展规划纲要（2010—2020年）》《统筹推进世界一流大学和一流学科建设总体方案》以及国家关于全面深化高等教育综合改革、全面提升研究生教育质量有关精神的重要举措。参与全国性的学科评估，是对我校近年来学科建设成效的一次全面检查。通过评估，可以及时了解我校学科建设的优势和不足，对进一步提升研究生培养质量、学科建设整体水平以及实现西部一流教学研究型大学的目标具有非常重要的意义。二是要高度重视学科评估工作。此次学科评估时间紧、任务重，相关部门、学院和科研单位要组建精干团队专门负责此项工作，并根据评估要求科学分工、紧密配合，确保参评材料的质量。各参评学科要充分理解和掌握评估体系内涵、特点，做好学科资源的整合与优化，最大程度展现学科实力和特色。三是运用好学科评估结果。此次学科评估结果将作为“十三五”期间开展学科资源配置的重要依据。
+（责任编辑：徐静）
+ 
+        
+        上一条：校团委荣获自治区2016年五四系列主题活动最佳组织奖
+
+        下一条：我校辅导员王兵荣膺“第八届全国高校辅导员年度人物”称号
+    
+    
+        function dosubc42633()
+        {
+            try{
+                var ua = navigator.userAgent.toLowerCase();
+                if(ua.indexOf("msie 8")>-1)
+                {
+                    window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+                }else{
+                    if (document.all) 
+                    {
+                        window.external.addFavorite(document.location.href, document.title);
+                    }else if(window.sidebar)
+                    {
+                        window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+                    }
+                }
+        
+            }
+            catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+        }
+       【打印】
+               
+function printme()
+{
+document.body.innerHTML=document.getElementById('div1').innerHTML;
+window.print();
+}
+
+          【收藏】  【关闭】
+
+
+
+
+
+
+ 新闻网
+    
+ 信息门户
+    
+ 科研平台
+    
+ 学工系统
+    
+ 本科招生
+    
+ 教务系统
+    
+ 校园宣传审批系统
+    
+ 网络服务
+    
+ 校友网
+    
+ 邮箱登陆
+    
+ 站群检索
+    
+
+
+
+地址：宁夏银川市西夏区贺兰山西路489号　邮编：750021  电话：0951-2077800 宁ICP备05002185  Copyright © 宁夏大学  技术支持：网络与信息管理中心
+// 大的图片广告
+// 根据图片创建id,按钮元素等，实际开发建议使用JSON数据类似
+var htmlAdBtn = '';
+$("#jdAdSlide img").each(function(index, image) {
+    var id = "adImage" + index;
+    htmlAdBtn = htmlAdBtn + '<a href="javascript:" class="jd_ad_btn_a" data-rel="'+ id +'">'+ (index + 1) +'</a>';
+    image.id = id;
+});
+$("#jdAdBtn").html(htmlAdBtn).find("a").powerSwitch({
+    eventType: "hover",
+    classAdd: "active",
+    animation: "fade",
+    autoTime: 5000,
+    onSwitch: function(image) {
+        if (!image.attr("src")) {
+            image.attr("src", image.attr("data-src"));  
+        }
+    }
+}).eq(0).trigger("mouseover");
+
+// 便民服务
+$("#servNav a").powerSwitch({
+    classAdd: "active",
+    eventType: "hover",
+    onSwitch: function() {
+        $("#pointLine").animate({ "left": $(this).position().left}, 200);
+    }
+});
+
+
+
+
+
+宁夏大学党建网
+宁夏大学新闻网
+
+
+微信 
+新浪微博 
+宁夏大学党建网 
+宁夏大学新闻网 window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+

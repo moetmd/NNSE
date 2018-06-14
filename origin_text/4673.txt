@@ -1,0 +1,118 @@
+学校举行赴密苏里州立大学访学项目说明会【宁夏大学新闻中心讯 对外合作交流处】5月27日上午，美国密苏里州立大学国际领导力培训中心主任Brad Bodenhause先生一行访问我校，对我校2016年赴密苏里州立大学访学项目进行了具体说明。
+会上，对外合作交流处高桂英处长对密苏里州立大学Brad Bodenhause先生一行的来访表示热烈欢迎。她表示，此次访学项目受到自治区主席刘慧、自治区各有关部门和学校的高度重视，希望访学师生珍惜机会，打好语言基础，清晰地认识自己，为九月赴美做好充分的准备。
+Brad Bodenhause先生一行就在美期间的专业学习、文化体验、实践活动、日常生活等做了详细地介绍，并解答了师生们的疑问，师生们对赴美学习充满期待。
+据了解，密苏里州立大学农业研究项目是在自治区政府的倡议和指导下，我校国际化人才培养及国际化内涵建设的重要举措，也是服务自治区经济社会建设的重要抓手。刘慧主席明确指示，2016年继续执行“宁夏大学与密苏里州立大学农业研究项目”，派出相关涉农学科的50名学生及10名教师赴美访学一年，并在2015年的基础上，增加了园林、园艺、农资、植保、林学、食品六个专业。在对外合作交流处、外国语学院等相关部门的配合下，经过组织动员、语言培训、雅思考试等环节，最终确定了60人的名单，目前正式启动办理申请注册、赴美签证、往返机票等一系列事宜。
+
+
+对外合作交流处、农学院和葡萄酒学院相关负责人及60位访学师生参加了项目说明会。
+（责任编辑：胡玥）
+ 
+        
+        上一条：马宗保当选宁夏党外知识分子联谊会会长
+
+        下一条：自治区督查组督查我校“两学一做”学习教育情况
+    
+    
+        function dosubc42633()
+        {
+            try{
+                var ua = navigator.userAgent.toLowerCase();
+                if(ua.indexOf("msie 8")>-1)
+                {
+                    window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+                }else{
+                    if (document.all) 
+                    {
+                        window.external.addFavorite(document.location.href, document.title);
+                    }else if(window.sidebar)
+                    {
+                        window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+                    }
+                }
+        
+            }
+            catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+        }
+       【打印】
+               
+function printme()
+{
+document.body.innerHTML=document.getElementById('div1').innerHTML;
+window.print();
+}
+
+          【收藏】  【关闭】
+
+
+
+
+
+
+ 新闻网
+    
+ 信息门户
+    
+ 科研平台
+    
+ 学工系统
+    
+ 本科招生
+    
+ 教务系统
+    
+ 校园宣传审批系统
+    
+ 网络服务
+    
+ 校友网
+    
+ 邮箱登陆
+    
+ 站群检索
+    
+
+
+
+地址：宁夏银川市西夏区贺兰山西路489号　邮编：750021  电话：0951-2077800 宁ICP备05002185  Copyright © 宁夏大学  技术支持：网络与信息管理中心
+// 大的图片广告
+// 根据图片创建id,按钮元素等，实际开发建议使用JSON数据类似
+var htmlAdBtn = '';
+$("#jdAdSlide img").each(function(index, image) {
+    var id = "adImage" + index;
+    htmlAdBtn = htmlAdBtn + '<a href="javascript:" class="jd_ad_btn_a" data-rel="'+ id +'">'+ (index + 1) +'</a>';
+    image.id = id;
+});
+$("#jdAdBtn").html(htmlAdBtn).find("a").powerSwitch({
+    eventType: "hover",
+    classAdd: "active",
+    animation: "fade",
+    autoTime: 5000,
+    onSwitch: function(image) {
+        if (!image.attr("src")) {
+            image.attr("src", image.attr("data-src"));  
+        }
+    }
+}).eq(0).trigger("mouseover");
+
+// 便民服务
+$("#servNav a").powerSwitch({
+    classAdd: "active",
+    eventType: "hover",
+    onSwitch: function() {
+        $("#pointLine").animate({ "left": $(this).position().left}, 200);
+    }
+});
+
+
+
+
+
+宁夏大学党建网
+宁夏大学新闻网
+
+
+微信 
+新浪微博 
+宁夏大学党建网 
+宁夏大学新闻网 window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+

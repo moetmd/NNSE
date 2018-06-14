@@ -1,0 +1,68 @@
+我校 2016 年度 国家 社会科学 基金项目 喜获丰收 < ! - - 
+   / *   Font   Definitions   * / 
+   @ font - face 
+ 	 { font - family : 宋体 ; 
+ 	 panose - 1 : 2   1   6   0   3   1   1   1   1   1 ; } 
+ @ font - face 
+ 	 { font - family : 黑体 ; 
+ 	 panose - 1 : 2   1   6   9   6   1   1   1   1   1 ; } 
+ @ font - face 
+ 	 { font - family : " Cambria   Math " ; 
+ 	 panose - 1 : 2   4   5   3   5   4   6   3   2   4 ; } 
+ @ font - face 
+ 	 { font - family : " \ @ 黑体 " ; 
+ 	 panose - 1 : 2   1   6   9   6   1   1   1   1   1 ; } 
+ @ font - face 
+ 	 { font - family : " \ @ 宋体 " ; 
+ 	 panose - 1 : 2   1   6   0   3   1   1   1   1   1 ; } 
+   / *   Style   Definitions   * / 
+   p . MsoNormal ,   li . MsoNormal ,   div . MsoNormal 
+ 	 { margin : 0cm ; 
+ 	 margin - bottom : . 0001pt ; 
+ 	 text - align : justify ; 
+ 	 text - justify : inter - ideograph ; 
+ 	 font - size : 10.5 pt ; 
+ 	 font - family : " Times   New   Roman " , " serif " ; } 
+ p . MsoHeader ,   li . MsoHeader ,   div . MsoHeader 
+ 	 { mso - style - link : " 页眉   Char " ; 
+ 	 margin : 0cm ; 
+ 	 margin - bottom : . 0001pt ; 
+ 	 text - align : center ; 
+ 	 vsb _ tmp - mode : char ; 
+ 	 border : none ; 
+ 	 padding : 0cm ; 
+ 	 font - size : 9.0 pt ; 
+ 	 font - family : " Times   New   Roman " , " serif " ; } 
+ p . MsoFooter ,   li . MsoFooter ,   div . MsoFooter 
+ 	 { mso - style - link : " 页脚   Char " ; 
+ 	 margin : 0cm ; 
+ 	 margin - bottom : . 0001pt ; 
+ 	 vsb _ tmp - mode : char ; 
+ 	 font - size : 9.0 pt ; 
+ 	 font - family : " Times   New   Roman " , " serif " ; } 
+ p 
+ 	 { margin - right : 0cm ; 
+ 	 margin - left : 0cm ; 
+ 	 font - size : 12.0 pt ; 
+ 	 font - family : 宋体 ; } 
+ span . Char 
+ 	 { mso - style - name : " 页眉   Char " ; 
+ 	 mso - style - link : 页眉 ; } 
+ span . Char0 
+ 	 { mso - style - name : " 页脚   Char " ; 
+ 	 mso - style - link : 页脚 ; } 
+   / *   Page   Definitions   * / 
+   @ page   WordSection1 
+ 	 { size : 595.3 pt   841.9 pt ; 
+ 	 margin : 72.0 pt   90.0 pt   72.0 pt   90.0 pt ; 
+ 	 vsb _ tmp : 15.6 pt ; } 
+ div . WordSection1 
+ 	 { page : WordSection1 ; } 
+ - - > 
+   
+   
+     
+   【 宁夏大学 新闻 中心 讯     科技处     赵军 】 2016 年度 国家 社会科学 基金 年度 和 西部 项目 评审 立项 结果 近日 相继 公示 。 我校 有 22 项 课题 公示 立项 ， 比 上年 多 7 项 ， 占 全区 立项 总数 的 65% 。 其中 年度 项目 15 项 ， 青年 项目 2 项 ， 西部 项目 5 项 ， 立项 率达 24% ， 年度 项目 和 青年 项目 在 全国 排名 58 位 。 课题 覆盖 了 民族 问题 研究 、 中国 历史 、 法学 、 宗教学 、 中国 文学 、 新闻学 与 传播学 、 马列 · 科社 、 语言学 、 哲学 、 外国文学 和 体育 学 11 个 学科 门类 ， 具体 分布 在 11 个 教学 和 科研单位 ， 其中 政法学院 7 项 、 人文学院 5 项 、 马克思主义 学院 2 项 、 外国语 学院 、 国际 教育 学院 、 新闻 传播学院 、 体育 学院 、 西夏 学 研究院 、 回族 研究院 、 民族 预科 教育 学院 和 学术期刊 中心 各 1 项 。   
+   为 进一步提高 2016 年度 国家 社科 基金项目 的 申报 质量 ， 学校 主要 领导 明确指出 ， 全校 上下 一定 要 高度重视 ， 广泛 动员 ， 加强 领导 ， 精心组织 ， 在 项目 选题 、 论证 方面 多 下功夫 ， 推动 申报 数 和 立项 数 的 持续增长 。 科技处 召开 了 2016 年度 国家 社科 基金项目 申报 动员大会 ， 通过 广泛 动员 ， 下达 申报 任务 ， 将 任务 落实到人 。 各 单位 积极开展 申报 动员 与 形式 审查 工作 ， 组织 学院 学术 委员会 或 有 丰富 申报 经验 的 教师 对 申报 书 进行 讨论 修改 ， 反复 论证 课题 研究 的 最佳 方案 ， 在 保证 数量 的 同时 也 注重 项目 申报 的 质量 ， 个别 单位 还 在 学校 激励 措施 的 基础 上 增加 单位 奖励 力度 。 尤其 是 政法学院 和 人文学院 在 项目 申报 过程 中严 把 质量关 ， 将 课题 研究 与 学术前沿 相结合 ， 把握 国家 社科 基金 的 申报 要领 ， 强化 选题 的 特色 研究 ， 增强 协同 创新 意识 ， 取得 了 较 好 的 申报 成效 。 广大 教师 认真 撰写 申报 书 ， 听取 了 专家 们 的 意见 ， 经过 反复 论证 、 修改 ， 完善 了 申报材料 。 这些 举措 在 一定 程度 上 为 提高 我校 国家 社科 基金项目 的 申报 质量 奠定 了 良好 的 基础 。   
+   此次 获批 立项 是 我校 国家 社科 基金项目 申报 历史 上 获准 立项 取得 的 较 好 成绩 ， 将 进一步 鼓舞 我校 哲学 社会科学 科研人员 积极 申报 国家 社科 基金项目 ， 推动 我校 哲学 社会科学 研究 的 发展 。   
+   （ 责任编辑 ： 胡玥 ） 

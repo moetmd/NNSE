@@ -1,0 +1,134 @@
+我校召开智库建设报告会及宁夏大学中国阿拉伯国家研究院建设咨询会【宁夏大学新闻中心讯 徐静/文 龚旭峰 雷慧/图】5月5日下午，智库建设报告会及中国阿拉伯国家研究院建设咨询会在贺兰山校区宁夏大学中国阿拉伯国家研究院一楼会议室召开。
+
+约旦驻华大使叶海亚·卡拉莱、埃及文化参赞侯赛因·依卜拉欣、叙利亚中国和亚洲问题研究代表肖克，中联部原副部长于洪君、中国外交部前副部长杨福昌及来自国家农业部、中国社科院、清华大学、上海外国语大学、浙江师范大学等部门与高校的领导、专家学者应邀出席会议。
+智库建设报告会由副校长谢应忠主持。
+
+会上，宁夏大学中国阿拉伯国家研究院院长李绍先为自治区副主席姚爱兴、中联部原副部长于洪君、外交部原副部长杨福昌颁发了“宁夏大学中国阿拉伯国家研究院”名誉院长聘书。
+
+
+杨福昌从智库的定性、智库的作用、高校智库建设以及中国对阿拉伯世界的研究情况等方面谈了对中阿智库建设的想法。他强调，智库建设要站在中国利益的基础上看问题、研究问题，维护国家利益。同时，搞研究要有定力，要不受外界的影响。
+
+浙江师范大学非洲研究院院长刘鸿武教授作了《地方性大学的特色学科与智库建设——对宁夏大学的观察与思考》报告。他从当代中国学术创新与智库建设的背景与动因，中国发展的多元模式与地方性特色，地方性大学如何寻求特色化、差异化发展，地方性大学如何做发展战略顶层设计，中国特色新型智库是大学学科建设新方向，国家高端智库基本要求，高校智库的五大功能定位，高校学科建设与智库建设如何互动等方面进行了阐释。他还从宁夏大学学科与智库建设的几个原则、立足宁夏大学学科基础与优秀的创新、宁夏大学阿拉伯国家研究院的战略方向及阿拉伯国家研究院如何助推学校发展等方面，谈了自己的思考和想法。
+
+宁夏大学中国阿拉伯国家研究院建设咨询会由李绍先主持。与会专家围绕宁夏大学中国阿拉伯国家研究院的发展定位、研究方向和领域、创新合作机制、现实问题方向等重要内容进行了广泛深入的讨论，提出了许多合理化和建设性的建设与意见。
+
+
+
+
+
+
+
+专家们一致认为，宁夏在服务中阿合作国家战略中具有独特作用。因此，宁夏大学中国阿拉伯国家研究院的成立是落实习近平总书记重要讲话精神及自治区党委、政府有关“一带一路”中阿合作战略的重大举措。研究院要紧紧围绕国家和自治区重大需求，发挥比较优势，不断探索创新中阿智库合作机制，开展深入研究。广泛吸引和聚集中阿学者开展联合研究，关注阿拉伯最新研究成果并进行广泛交流和学习，注意借鉴国内外智库建设发展经验，做好成果转化，为党和国家及自治区战略决策提供优质高效的咨询服务。
+
+相关部门负责人及中国阿拉伯研究院、阿拉伯学院、回族研究院师生代表参加了会议。
+（责任编辑：陈建丽）
+ 
+        
+        上一条：校团委李嗣辀荣获“全国优秀共青团干部”荣誉称号
+
+        
+    
+    
+        function dosubc42633()
+        {
+            try{
+                var ua = navigator.userAgent.toLowerCase();
+                if(ua.indexOf("msie 8")>-1)
+                {
+                    window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+                }else{
+                    if (document.all) 
+                    {
+                        window.external.addFavorite(document.location.href, document.title);
+                    }else if(window.sidebar)
+                    {
+                        window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+                    }
+                }
+        
+            }
+            catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+        }
+       【打印】
+               
+function printme()
+{
+document.body.innerHTML=document.getElementById('div1').innerHTML;
+window.print();
+}
+
+          【收藏】  【关闭】
+
+
+
+
+
+
+ 新闻网
+    
+ 信息门户
+    
+ 科研平台
+    
+ 学工系统
+    
+ 本科招生
+    
+ 教务系统
+    
+ 校园宣传审批系统
+    
+ 网络服务
+    
+ 校友网
+    
+ 邮箱登陆
+    
+ 站群检索
+    
+
+
+
+地址：宁夏银川市西夏区贺兰山西路489号　邮编：750021  电话：0951-2077800 宁ICP备05002185  Copyright © 宁夏大学  技术支持：网络与信息管理中心
+// 大的图片广告
+// 根据图片创建id,按钮元素等，实际开发建议使用JSON数据类似
+var htmlAdBtn = '';
+$("#jdAdSlide img").each(function(index, image) {
+    var id = "adImage" + index;
+    htmlAdBtn = htmlAdBtn + '<a href="javascript:" class="jd_ad_btn_a" data-rel="'+ id +'">'+ (index + 1) +'</a>';
+    image.id = id;
+});
+$("#jdAdBtn").html(htmlAdBtn).find("a").powerSwitch({
+    eventType: "hover",
+    classAdd: "active",
+    animation: "fade",
+    autoTime: 5000,
+    onSwitch: function(image) {
+        if (!image.attr("src")) {
+            image.attr("src", image.attr("data-src"));  
+        }
+    }
+}).eq(0).trigger("mouseover");
+
+// 便民服务
+$("#servNav a").powerSwitch({
+    classAdd: "active",
+    eventType: "hover",
+    onSwitch: function() {
+        $("#pointLine").animate({ "left": $(this).position().left}, 200);
+    }
+});
+
+
+
+
+
+宁夏大学党建网
+宁夏大学新闻网
+
+
+微信 
+新浪微博 
+宁夏大学党建网 
+宁夏大学新闻网 window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+

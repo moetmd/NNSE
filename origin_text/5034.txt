@@ -1,0 +1,90 @@
+唐山师范学院副校长孙立军一行来校交流<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-link:"页眉 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	vsb_tmp-mode:char;
+	border:none;
+	padding:0cm;
+	font-size:9.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-link:"页脚 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	vsb_tmp-mode:char;
+	font-size:9.0pt;
+	font-family:"Calibri","sans-serif";}
+span.Char
+	{mso-style-name:"页眉 Char";
+	mso-style-link:页眉;
+	font-family:"Times New Roman","serif";}
+span.Char0
+	{mso-style-name:"页脚 Char";
+	mso-style-link:页脚;
+	font-family:"Times New Roman","serif";}
+.MsoChpDefault
+	{font-size:10.5pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	vsb_tmp:15.6pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+ 
+ 
+    【宁夏大学新闻中心讯 胡玥/文  张景/图】6月15日，唐山师范学院副院长孙立军一行五人来校交流学习。 
+   
+ 
+   
+   
+     座谈会上，马应虎副校长对孙立军一行的到来表示欢迎，他简要介绍了我校的发展和后勤集团的基本情况。他表示，宁夏大学正处于综合改革发展的关键时期，高校的转型需要解决两个问题，一是解决一部分新建院校办学目标不明确的问题，二是解决办学与社会脱节的问题。我校在解决人才培养的问题，采用了应用型人才的培养方式。信息工程学院、葡萄酒学院、中卫校区里学生的培养模式采用了以企业的岗位求为培养目标，加强实践环节。对于师范类专业和院校的转型，他认为应以教育硕士为培养目标，紧紧围绕师范规律去培养对理论知识具有应用型的创新人才。 
+   
+ 
+   
+   
+    孙立军介绍了唐山市和唐山师范学院的基本情况。他指出，目前唐山师范学院作为一所地方性院校在转型中面临着机制体制改革、资产配置、后勤食堂管理等方面的困惑和难题，希望和宁夏大学进行交流学习。 
+   
+ 
+   
+   
+    随后，双方就食堂管理与运作、体育场地管理、场馆管理、后勤管理等问题进行了交流。 
+   
+ 
+   
+ 
+   
+   
+ 孙立军一行还参观了我校怀远校区、贺兰山校区和文萃校区。   
+   
+ 
+   
+ 
+   
+   
+ 校发展规划与学科建设处、计财处、资产与后勤管理处、体育学院、大学生场场馆管理服务中心、后勤集团相关负责人参加了会议。 
+ (责任编辑：陈建丽)

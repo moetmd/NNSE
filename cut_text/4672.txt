@@ -1,0 +1,123 @@
+自治区 督查组 督查 我校 “ 两学 一 做 ” 学习 教育 情况 【 宁夏大学 新闻 中心 讯   张景 / 文   龚旭峰 / 图 】 5 月 31 日 ， 自治区 “ 两学 一 做 ” 学习 教育 督查组 来校 就 “ 两学 一 做 ” 学习 教育 情况 进行 督查 。 
+ 
+ 
+ 
+ 宁夏大学 “ 两学 一 做 ” 学习 教育 领导小组 副 长 办公室 主任 、 校党委 副 书记 王燕昌 汇报 了 我校 “ 两学 一 做 ” 学习 教育 开展 的 基本 情况 ， 分析 了 存在 的 问题 ， 并 介绍 了 下 一步 工作 设想 。 他 表示 ， 我校 在 “ 两学 一 做 ” 学习 教育 上 认真 研究 、 周密 部署 、 迅速 动员 ； 按照 中央 、 自治区 和 教育 工委 的 方案 要求 ， 结合 学校 实际 ， 对 党员 领导 干部 、 教师 党员 、 学生党员 和 离退休 党员 分类 指导 、 扎实 推进 、 全面 覆盖 ； 校党委 以上 率下 、 加强指导 、 全面 推进 “ 两学 一 做 ” 学习 教育 的 开展 。 他 说 ， 我校 下 一步 “ 两学 一 做 ” 学习 教育 工作 要 努力 丰富 学习 载体 ， 加强 顶层 设计 ， 增强 吸引力 ； 总结 典型 经验 做法 ， 加强 典型 宣传 与 推广 ； 注重实效 ， 以 “ 学 ” 的 成果 促 “ 做 ” 的 成效 等 方面 。 
+ 新华 学院 党委 副 书记 张龙 汇报 了 学院 “ 两学 一 做 ” 学习 教育 的 基本 情况 。 新华 学院 党委 部署 周密 ， 严格 落实 “ 两学 一 做 ” 学习 教育 方案 ， 督促 各系 组织 、 支部 分别 制定 时间 计划表 ， 并 通过 组织 各种 活动 ， 丰富 载体 ， 突出 实效 ； 早立 标准 、 划出 底线 、 明确 标线 、 树立 高线 。 
+ 政法学院 党委书记 拜 发奎 表示 ， 学院 制定 了 “ 两学 一 做 ” 学习 教育 实施方案 ， 成立 了 工作 机构 ， 召开 了 动员 部署 会 。 他 认为 ， 应该 把 学院 “ 两学 一 做 ” 学习 教育 与 教职工 政治 理论 学习 、 入党 积极分子 培养教育 以及 学院 学科专业 、 中心 工作 相结合 。 
+ 土木 与 水利工程 学院 土木系 学生 党支部 书记 惠 迎新 汇报 了 学院 党委 运用 社交 网络 在 教工 党员 和 学生党员 中 开展 的 形式多样 的 学习 教育 ， 促进 学生党员 “ 两学 一 做 ” 学习 教育 的 情况 。 
+ 宁夏大学 “ 两学 一 做 ” 学习 教育 领导小组 办公室 综合 组组长 、 校党委 组织部 部长 高继明 分析 了 我校 开展 “ 两学 一 做 ” 学习 教育 在 学习 主观 能动性 、 学习 形式 创新 、 党课 开展 等 方面 遇到 的 问题 及其 原因 ， 提出 了 一些 建议 。 
+ 
+ 
+ 会后 ， 自治区 “ 两学 一 做 ” 学习 教育 督查组 考察 了 发展 规划 与 学科建设 处 直属 党支部 ， 科技处 、 社会 服务处   （ 光伏 材料 实验室 ） 直属 党支部 ， 计划 财务处 直属 党支部 ， 人事处 直属 党支部 ， 农学院 党委 ， 校长 办公室 （ 师生 服务 大厅 ） 直属 党支部 等 “ 两学 一 做 ” 学习 教育 开展 情况 ， 提出 了 指导性 意见 。 
+ （ 责任编辑 ： 陈建丽 ） 
+   
+                 
+                 上 一条 ： 学校 举行 赴 密苏里 州立大学 访学 项目 说明会 
+ 
+                 下 一条 ： 我校 “ 一带 一路上 的 文化 — — 中 阿 文化交流 数据库 ” 喜获 文化部 立项 支持 
+         
+         
+                 function   dosubc42633 ( ) 
+                 { 
+                         try { 
+                                 var   ua   =   navigator . userAgent . toLowerCase ( ) ; 
+                                 if ( ua . indexOf ( " msie   8 " ) > - 1 ) 
+                                 { 
+                                         window . external . AddToFavoritesBar ( document . location . href , document . title , " " ) ; / / IE8 
+                                 } else { 
+                                         if   ( document . all )   
+                                         { 
+                                                 window . external . addFavorite ( document . location . href ,   document . title ) ; 
+                                         } else   if ( window . sidebar ) 
+                                         { 
+                                                 window . sidebar . addPanel (   document . title ,   document . location . href ,   " " ) ; / / firefox 
+                                         } 
+                                 } 
+                 
+                         } 
+                         catch   ( e ) { alert ( " 无法 自动 添加 到 收藏夹 ， 请 使用   Ctrl   +   d   手动 添加 " ) ; } 
+                 } 
+               【 打印 】 
+                               
+ function   printme ( ) 
+ { 
+ document . body . innerHTML = document . getElementById ( ' div1 ' ) . innerHTML ; 
+ window . print ( ) ; 
+ } 
+ 
+                     【 收藏 】     【 关闭 】 
+ 
+ 
+ 
+ 
+ 
+ 
+   新闻网 
+         
+   信息 门户 
+         
+   科研 平台 
+         
+   学工 系统 
+         
+   本科 招生 
+         
+   教务 系统 
+         
+   校园 宣传 审批 系统 
+         
+   网络服务 
+         
+   校友网 
+         
+   邮箱 登陆 
+         
+   站 群 检索 
+         
+ 
+ 
+ 
+ 地址 ： 宁夏 银川市 西夏区 贺兰山 西路 489 号 　 邮编 ： 750021     电话 ： 0951 - 2077800   宁 ICP 备 05002185     Copyright   ©   宁夏大学     技术支持 ： 网络 与 信息管理 中心 
+ / /   大 的 图片 广告 
+ / /   根据 图片 创建 id , 按钮 元素 等 ， 实际 开发 建议 使用 JSON 数据 类似 
+ var   htmlAdBtn   =   ' ' ; 
+ $ ( " # jdAdSlide   img " ) . each ( function ( index ,   image )   { 
+         var   id   =   " adImage "   +   index ; 
+         htmlAdBtn   =   htmlAdBtn   +   ' < a   href = " javascript : "   class = " jd _ ad _ btn _ a "   data - rel = " ' +   id   + ' " > ' +   ( index   +   1 )   + ' < / a > ' ; 
+         image . id   =   id ; 
+ } ) ; 
+ $ ( " # jdAdBtn " ) . html ( htmlAdBtn ) . find ( " a " ) . powerSwitch ( { 
+         eventType :   " hover " , 
+         classAdd :   " active " , 
+         animation :   " fade " , 
+         autoTime :   5000 , 
+         onSwitch :   function ( image )   { 
+                 if   ( ! image . attr ( " src " ) )   { 
+                         image . attr ( " src " ,   image . attr ( " data - src " ) ) ;     
+                 } 
+         } 
+ } ) . eq ( 0 ) . trigger ( " mouseover " ) ; 
+ 
+ / /   便民服务 
+ $ ( " # servNav   a " ) . powerSwitch ( { 
+         classAdd :   " active " , 
+         eventType :   " hover " , 
+         onSwitch :   function ( )   { 
+                 $ ( " # pointLine " ) . animate ( {   " left " :   $ ( this ) . position ( ) . left } ,   200 ) ; 
+         } 
+ } ) ; 
+ 
+ 
+ 
+ 
+ 
+ 宁夏大学 党建网 
+ 宁夏大学 新闻网 
+ 
+ 
+ 微信   
+ 新浪 微博   
+ 宁夏大学 党建网   
+ 宁夏大学 新闻网   window ._ bd _ share _ config = { " common " : { " bdSnsKey " : { } , " bdText " : " " , " bdMini " : " 1 " , " bdMiniList " : false , " bdPic " : " " , " bdStyle " : " 1 " , " bdSize " : " 24 " } , " share " : { } } ; with ( document ) 0 [ ( getElementsByTagName ( ' head ' ) [ 0 ] | | body ) . appendChild ( createElement ( ' script ' ) ) . src = ' http : / / bdimg . share . baidu . com / static / api / js / share . js ? v = 89860593 . js ? cdnversion = ' + ~ ( - new   Date ( ) / 36e5 ) ] ; 
+ 

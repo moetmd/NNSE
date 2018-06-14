@@ -1,0 +1,8 @@
+国重室煤的高值化路线研究取得新进展【宁夏大学新闻中心讯 省部共建煤炭高效利用与绿色化工国家重点实验室】近日，我校省部共建煤炭高效利用与绿色化工国家重点实验室“煤基应用催化”创新团队新引进海外博士高新华和University of Toyama Prof. Noritatsu Tsubaki（我校兼职教授）等人在二甲醚一步法制乙醇方面取得重要进展，通过设计一种新型固定床反应器，实现了二甲醚与合成气（CO+H2）一步高效制取乙醇。研究论文“Designing a novel dual bed reactor to realize efficient ethanol synthesis from dimethyl ether and syngas”在英国皇家化学学会著名期刊《Catalysis Science & Technology》（SCI二区，影响因子5.773）上发表，并被选为2018年第8期封面。 
+
+  
+乙醇广泛用于医疗、食品、工农业，也是公认环保清洁燃料。工业上以传统的食物发酵法和石油路线的乙烯水化法生产为主。考虑到粮食及石油能源的短缺，以煤炭、非粮食生物质等能源为原料制备乙醇可以降低生产成本，促进我国燃料乙醇的发展。基于前期Tsubaki教授团队提出的二甲醚与合成气一步制乙醇的新方法，本研究设计了一种新型双层固定床反应器，可以将CO与H2分别通入H-Ferrierite分子筛与CuZnAl催化剂床层，使二甲醚与CO首先在H-Ferrierite分子筛催化剂上发生羰基化反应生成乙酸甲酯，生成的乙酸甲酯继而在CuZnAl催化剂上加氢生成乙醇。与传统双层固定床反应器相比、在不改变催化剂的情况下，该反应器可以使二甲醚的转化率与乙醇的收率增加近一倍。审稿人对该工作给予高度评价，认为其概念方法设计、反应性能及总体影响均进入Top 5%。 
+论文链接:  
+http://pubs.rsc.org/en/content/articlelanding/2018/cy/c8cy00010g/unauth#!divAbstract 
+封面链接: 
+http://pubs.rsc.org/en/content/articlepdf/2018/cy/c8cy90030b?page=search

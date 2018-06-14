@@ -1,0 +1,122 @@
+我校 召开 推进 哲学 社会科学 科研工作 座谈会 【 宁夏大学 新闻 中心 讯   刘斌 / 文   张景 / 图 】 6 月 3 日 ， 学习 贯彻 习近平 总书记 重要讲话 精神 ， 加快 推进 我校 哲学 社会科学 科研工作 座谈会 在 贺兰山 校区 行政 主楼 10 楼 会议室 召开 。 座谈会 由 许兴 副校长 主持 。 
+ 
+ 会上 ， 许兴 传达 学习 了 习近平 总书记 在 哲学 社会科学 工作 座谈会 上 的 重要讲话 精神 。 回顾 了 我校 “ 十二五 ” 期间 哲学 社会科学 科研 平台 建设 、 科研 立项 和 科研成果 等 方面 取得 的 成绩 ， 分析 了 我校 存在 的 问题 ， 交流 了 “ 十三 五 ” 哲学 社会科学 科研工作 的 整体 思考 。 
+ 
+ 西夏 学 研究院 院长 杜建录 、 人文学院 院长 胡玉冰 、 马克思主义 学院 院长 李斌 、 外国语 学院 院长 周震 、 新闻 与 传播学院 书记 周强 、 西部 发展 研究 中心 主任 黄立军 、 体育 学院 教师 马兆明 、 教育 学院 教师 焦岩岩 、 外国语 学院 教师 洪春梅 等 分别 进行 了 座谈 交流 ， 他们 结合 习 总书记 在 哲学 社会科学 工作 座谈会 上 的 讲话 精神 ， 围绕 宁夏大学 哲学 社会科学 科研 组织 模式 创新 、 重大项目 策划 申报 、 科研成果 评价 及 奖励 等 主题 展开 了 交流 讨论 。 
+ 科技 处处长 李学斌 ， 副处长 赵军 表示 要 强化 沟通 、 抢抓 机遇 ， 做好 科研 管理 服务 工作 ， 并 对 大家 关心 的 具体 问题 进行 了 回应 。 
+ 许兴 强调 ， 要 加强 我校 “ 十三 五 ” 哲学 社会科学 科研 规划 工作 ; 各 单位 要 整合 资源 ， 协同 创新 ， 组织 申报 重大项目 ; 要 逐步完善 哲学 社会科学 的 科研 评价 ， 规范 科研 项目管理 ， 进一步提高 科研 管理水平 ; 科研工作 要 为 把 宁夏大学 建成 “ 双 一流 ” 大学 提供 有力 支撑 。 
+ ( 责任编辑 ： 徐静 ) 
+   
+                 
+                 上 一条 ： 我校 召开 第四轮 学科 评估 工作 推进 会 
+ 
+                 下 一条 ： 畅谈 博者 人生 感悟 学术 大道 
+ 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 — — 宁夏大学 金波 论坛 第 165 期 开讲 
+         
+         
+                 function   dosubc42633 ( ) 
+                 { 
+                         try { 
+                                 var   ua   =   navigator . userAgent . toLowerCase ( ) ; 
+                                 if ( ua . indexOf ( " msie   8 " ) > - 1 ) 
+                                 { 
+                                         window . external . AddToFavoritesBar ( document . location . href , document . title , " " ) ; / / IE8 
+                                 } else { 
+                                         if   ( document . all )   
+                                         { 
+                                                 window . external . addFavorite ( document . location . href ,   document . title ) ; 
+                                         } else   if ( window . sidebar ) 
+                                         { 
+                                                 window . sidebar . addPanel (   document . title ,   document . location . href ,   " " ) ; / / firefox 
+                                         } 
+                                 } 
+                 
+                         } 
+                         catch   ( e ) { alert ( " 无法 自动 添加 到 收藏夹 ， 请 使用   Ctrl   +   d   手动 添加 " ) ; } 
+                 } 
+               【 打印 】 
+                               
+ function   printme ( ) 
+ { 
+ document . body . innerHTML = document . getElementById ( ' div1 ' ) . innerHTML ; 
+ window . print ( ) ; 
+ } 
+ 
+                     【 收藏 】     【 关闭 】 
+ 
+ 
+ 
+ 
+ 
+ 
+   新闻网 
+         
+   信息 门户 
+         
+   科研 平台 
+         
+   学工 系统 
+         
+   本科 招生 
+         
+   教务 系统 
+         
+   校园 宣传 审批 系统 
+         
+   网络服务 
+         
+   校友网 
+         
+   邮箱 登陆 
+         
+   站 群 检索 
+         
+ 
+ 
+ 
+ 地址 ： 宁夏 银川市 西夏区 贺兰山 西路 489 号 　 邮编 ： 750021     电话 ： 0951 - 2077800   宁 ICP 备 05002185     Copyright   ©   宁夏大学     技术支持 ： 网络 与 信息管理 中心 
+ / /   大 的 图片 广告 
+ / /   根据 图片 创建 id , 按钮 元素 等 ， 实际 开发 建议 使用 JSON 数据 类似 
+ var   htmlAdBtn   =   ' ' ; 
+ $ ( " # jdAdSlide   img " ) . each ( function ( index ,   image )   { 
+         var   id   =   " adImage "   +   index ; 
+         htmlAdBtn   =   htmlAdBtn   +   ' < a   href = " javascript : "   class = " jd _ ad _ btn _ a "   data - rel = " ' +   id   + ' " > ' +   ( index   +   1 )   + ' < / a > ' ; 
+         image . id   =   id ; 
+ } ) ; 
+ $ ( " # jdAdBtn " ) . html ( htmlAdBtn ) . find ( " a " ) . powerSwitch ( { 
+         eventType :   " hover " , 
+         classAdd :   " active " , 
+         animation :   " fade " , 
+         autoTime :   5000 , 
+         onSwitch :   function ( image )   { 
+                 if   ( ! image . attr ( " src " ) )   { 
+                         image . attr ( " src " ,   image . attr ( " data - src " ) ) ;     
+                 } 
+         } 
+ } ) . eq ( 0 ) . trigger ( " mouseover " ) ; 
+ 
+ / /   便民服务 
+ $ ( " # servNav   a " ) . powerSwitch ( { 
+         classAdd :   " active " , 
+         eventType :   " hover " , 
+         onSwitch :   function ( )   { 
+                 $ ( " # pointLine " ) . animate ( {   " left " :   $ ( this ) . position ( ) . left } ,   200 ) ; 
+         } 
+ } ) ; 
+ 
+ 
+ 
+ 
+ 
+ 宁夏大学 党建网 
+ 宁夏大学 新闻网 
+ 
+ 
+ 微信   
+ 新浪 微博   
+ 宁夏大学 党建网   
+ 宁夏大学 新闻网   window ._ bd _ share _ config = { " common " : { " bdSnsKey " : { } , " bdText " : " " , " bdMini " : " 1 " , " bdMiniList " : false , " bdPic " : " " , " bdStyle " : " 1 " , " bdSize " : " 24 " } , " share " : { } } ; with ( document ) 0 [ ( getElementsByTagName ( ' head ' ) [ 0 ] | | body ) . appendChild ( createElement ( ' script ' ) ) . src = ' http : / / bdimg . share . baidu . com / static / api / js / share . js ? v = 89860593 . js ? cdnversion = ' + ~ ( - new   Date ( ) / 36e5 ) ] ; 
+ 

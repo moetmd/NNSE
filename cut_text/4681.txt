@@ -1,0 +1,117 @@
+校 工会 到 中卫 校区 调研 【 宁夏大学 新闻 中心 讯   中卫 校区 】 5 月 27 日 ， 校 工会 主要 负责人 到 中卫 校区 就 中 卫校 区分 工会 建设 情况 进行 座谈 交流 。 
+ 中卫 校区 负责人 杨振东 介绍 了 中卫 校区 当前 的 办学 模式 、 学生 规模 、 专业 设置 、 师资 配备 等 基本 情况 。 杨振东 表示 ， 中卫 校区 致力于 打造 全区 应用 技术型 人才培养 基地 ， 在 办学 过程 中 得到 了 学校 各 部门 的 大力支持 与 帮助 。 校领导 和 相关 职能部门 曾多次 深入 校区 建设 、 教学 、 生活 一线 ， 现场 指导 校区 工作 ， 为 校区 建设 发展 奠定 了 扎实 的 基础 。 目前 中卫 校区 的 管理 团队 成员 构成 主要 由 学校 各 部门 选派 ， 采取 派驻 延伸 式 管理 方式 为主 。 校区 15 名 管理人员 能够 以 校区 为家 ， 牢固 树立 开创 意识 ， 立足本职 、 坚守岗位 ， 为 校区 建设 发展 做出 了 突出贡献 。 但是 ， 校区 教职工 仍 属于 原 单位 分工会 ， 在 参加 工会 活动 方面 存在 诸多不便 。 希望 学校 工会 能够 继续 支持 校区 建设 ， 成立 中 卫校 区工会 小组 ， 进一步 增强 教职工 工作 积极性 ， 促进 校区 建设 事业 更上层楼 。 
+ 校 工会主席 孙宝德 对 中卫 校区 各项 工作 取得 的 成绩 表示 赞赏 ， 对 校区 职工 付出 的 努力 表示 敬佩 。 他 说 ， 中卫 校区 作为 学校 唯一 在 异地 办学 的 校区 ， 承担 着 学校 转型 发展 的 战略 任务 。 校 工会 将 尽快 在 中卫 校区 建立 工会 小组 ， 进一步 丰富 教职工 业余 文化 生活 ， 保障 教职工 各项 权益 ， 改善 教职工 工作 生活 条件 ， 促进 教职工 为 校区 建设 发展 做出 更大 的 贡献 。 
+ 
+ 
+ 随后 ， 孙宝德 一行 还 实地 调研 了 中卫 校区 教育 教学 及 生活 保障 设施 条件 。 
+ （ 责任编辑 ： 胡玥 ） 
+   
+                 
+                 上 一条 ： 我校 荣获 2015 - 2016 年 全国 大学生 网球 联赛 西安 分站赛 丙组 亚军 
+ 
+                 下 一条 ： 《 神秘 西夏 》 《 正说 西夏 系列 》 出版发行 
+         
+         
+                 function   dosubc42633 ( ) 
+                 { 
+                         try { 
+                                 var   ua   =   navigator . userAgent . toLowerCase ( ) ; 
+                                 if ( ua . indexOf ( " msie   8 " ) > - 1 ) 
+                                 { 
+                                         window . external . AddToFavoritesBar ( document . location . href , document . title , " " ) ; / / IE8 
+                                 } else { 
+                                         if   ( document . all )   
+                                         { 
+                                                 window . external . addFavorite ( document . location . href ,   document . title ) ; 
+                                         } else   if ( window . sidebar ) 
+                                         { 
+                                                 window . sidebar . addPanel (   document . title ,   document . location . href ,   " " ) ; / / firefox 
+                                         } 
+                                 } 
+                 
+                         } 
+                         catch   ( e ) { alert ( " 无法 自动 添加 到 收藏夹 ， 请 使用   Ctrl   +   d   手动 添加 " ) ; } 
+                 } 
+               【 打印 】 
+                               
+ function   printme ( ) 
+ { 
+ document . body . innerHTML = document . getElementById ( ' div1 ' ) . innerHTML ; 
+ window . print ( ) ; 
+ } 
+ 
+                     【 收藏 】     【 关闭 】 
+ 
+ 
+ 
+ 
+ 
+ 
+   新闻网 
+         
+   信息 门户 
+         
+   科研 平台 
+         
+   学工 系统 
+         
+   本科 招生 
+         
+   教务 系统 
+         
+   校园 宣传 审批 系统 
+         
+   网络服务 
+         
+   校友网 
+         
+   邮箱 登陆 
+         
+   站 群 检索 
+         
+ 
+ 
+ 
+ 地址 ： 宁夏 银川市 西夏区 贺兰山 西路 489 号 　 邮编 ： 750021     电话 ： 0951 - 2077800   宁 ICP 备 05002185     Copyright   ©   宁夏大学     技术支持 ： 网络 与 信息管理 中心 
+ / /   大 的 图片 广告 
+ / /   根据 图片 创建 id , 按钮 元素 等 ， 实际 开发 建议 使用 JSON 数据 类似 
+ var   htmlAdBtn   =   ' ' ; 
+ $ ( " # jdAdSlide   img " ) . each ( function ( index ,   image )   { 
+         var   id   =   " adImage "   +   index ; 
+         htmlAdBtn   =   htmlAdBtn   +   ' < a   href = " javascript : "   class = " jd _ ad _ btn _ a "   data - rel = " ' +   id   + ' " > ' +   ( index   +   1 )   + ' < / a > ' ; 
+         image . id   =   id ; 
+ } ) ; 
+ $ ( " # jdAdBtn " ) . html ( htmlAdBtn ) . find ( " a " ) . powerSwitch ( { 
+         eventType :   " hover " , 
+         classAdd :   " active " , 
+         animation :   " fade " , 
+         autoTime :   5000 , 
+         onSwitch :   function ( image )   { 
+                 if   ( ! image . attr ( " src " ) )   { 
+                         image . attr ( " src " ,   image . attr ( " data - src " ) ) ;     
+                 } 
+         } 
+ } ) . eq ( 0 ) . trigger ( " mouseover " ) ; 
+ 
+ / /   便民服务 
+ $ ( " # servNav   a " ) . powerSwitch ( { 
+         classAdd :   " active " , 
+         eventType :   " hover " , 
+         onSwitch :   function ( )   { 
+                 $ ( " # pointLine " ) . animate ( {   " left " :   $ ( this ) . position ( ) . left } ,   200 ) ; 
+         } 
+ } ) ; 
+ 
+ 
+ 
+ 
+ 
+ 宁夏大学 党建网 
+ 宁夏大学 新闻网 
+ 
+ 
+ 微信   
+ 新浪 微博   
+ 宁夏大学 党建网   
+ 宁夏大学 新闻网   window ._ bd _ share _ config = { " common " : { " bdSnsKey " : { } , " bdText " : " " , " bdMini " : " 1 " , " bdMiniList " : false , " bdPic " : " " , " bdStyle " : " 1 " , " bdSize " : " 24 " } , " share " : { } } ; with ( document ) 0 [ ( getElementsByTagName ( ' head ' ) [ 0 ] | | body ) . appendChild ( createElement ( ' script ' ) ) . src = ' http : / / bdimg . share . baidu . com / static / api / js / share . js ? v = 89860593 . js ? cdnversion = ' + ~ ( - new   Date ( ) / 36e5 ) ] ; 
+ 

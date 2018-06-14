@@ -1,0 +1,141 @@
+宁夏“泰昇祥”杯第二届“互联网+”大学生创新创业大赛区级复赛在我校顺利...【创新创业学院/文 张景 龚旭峰/图】6月8日，宁夏“泰昇祥”杯第二届“互联网+”大学生创新创业大赛区级复赛在我校顺利进行。来自全区15所高校的111个参赛项目团队参加了比赛。本次比赛是中国第二届“互联网+”大学生创新创业大赛的宁夏分赛区，大赛以“拥抱‘互联网+’时代，共筑创新创业梦想”为主题，由自治区教育厅主办，我校承办，宁夏泰昇祥投资管理有限公司冠名赞助。大赛设立5个金奖、10个银奖、40个铜奖。大赛倡导注重挖掘高校教师的科技成果转化项目，鼓励教师转化科技成果，带领学生创新创业。
+
+
+
+大赛自4月25日正式启动以来，共有341项参赛项目和1195名大学生通过网络报名参加比赛。参赛团队历经院系级初赛、校院级选拔赛，共计推选出111个项目进入区级复赛。区级复赛共有项目书评审、项目展示、投融资对接和网上评审四个比赛环节。自治区教育厅高教处处长龚雪飞，宁夏大学校长何建国，党委副书记赵利宁、王燕昌，副校长田军仓和相关高校分管校领导、职能部门领导观摩了项目展示和投融资对接比赛现场。
+吉林大学商学院博士生导师、教授，国内知名创新创业教育专家，吉林省“互联网+”大学生创新创业大赛评审专家张秀娥；全国高校创新创业投资服务联盟副秘书长、第二届中国“互联网+”大学生创新创业大赛专家委员会委员、梧桐高创资本创始合伙人、深圳前海梧桐并购基金副总经理蒋楠；宁夏第二届“互联网+”大学生创新创业大赛赞助单位、宁夏泰昇祥投资管理有限公司总经理孙文涛；吉林大学创业管理博士祁伟宏；中国第二届“互联网+”大学生创新创业大赛评委、宁夏众城科创总经理苏毅和宁夏教育厅高等教育处盖文燕担任区级复赛评委。
+6月7日，区级复赛项目书评审在我校科技综合楼三楼创客咨询服务中心进行。
+
+
+
+
+
+
+
+
+6月8日，区级复赛项目展示、投融资对接比赛环节在我校科技综合楼一楼大厅进行。大赛现场，各团队采用多种形式向评委展示团队比赛项目，主动接受问询、质疑等。大赛现场还设置了专门的投融资对接路演区，供风投与参赛团队项目进行接洽、商谈。据统计，参加比赛的参赛项目中共有34个参赛项目与投融资机构或个人达成了投资意向书，累计形成投资意向金额451万，其中最高单笔意向性投资金额为30万元，单个项目获得意向性投资总额为90万元。
+
+
+
+
+
+
+
+6月8日起，宁夏“泰昇祥”杯第二届“互联网+”大学生创新创业大赛区级复赛网络投票环节正式启动，本次网络投票采用最低限额投票方式，每个参赛项目投票数量达300票即完成网络投票评审环节。截至6月13日，参加网络投票的111个项目均达到了300票的最低限额。
+
+
+
+
+
+据悉，宁夏“泰昇祥”杯第二届“互联网+”大学生创新创业大赛区级复赛项目书评审、项目展示、投融资对接和网上评审等四个环节均按比赛规程顺利完成，大赛遴选的15个项目将于9月初进入区级总决赛。
+（责任编辑：陈建丽）
+ 
+        
+        上一条：香港树仁大学学生代表团到我校交流学习
+
+        下一条：“一带一路”文化交流蓝皮书《中阿文化交流发展报告（2016）》研讨会在京举行
+    
+    
+        function dosubc42633()
+        {
+            try{
+                var ua = navigator.userAgent.toLowerCase();
+                if(ua.indexOf("msie 8")>-1)
+                {
+                    window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+                }else{
+                    if (document.all) 
+                    {
+                        window.external.addFavorite(document.location.href, document.title);
+                    }else if(window.sidebar)
+                    {
+                        window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+                    }
+                }
+        
+            }
+            catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+        }
+       【打印】
+               
+function printme()
+{
+document.body.innerHTML=document.getElementById('div1').innerHTML;
+window.print();
+}
+
+          【收藏】  【关闭】
+
+
+
+
+
+
+ 新闻网
+    
+ 信息门户
+    
+ 科研平台
+    
+ 学工系统
+    
+ 本科招生
+    
+ 教务系统
+    
+ 校园宣传审批系统
+    
+ 网络服务
+    
+ 校友网
+    
+ 邮箱登陆
+    
+ 站群检索
+    
+
+
+
+地址：宁夏银川市西夏区贺兰山西路489号　邮编：750021  电话：0951-2077800 宁ICP备05002185  Copyright © 宁夏大学  技术支持：网络与信息管理中心
+// 大的图片广告
+// 根据图片创建id,按钮元素等，实际开发建议使用JSON数据类似
+var htmlAdBtn = '';
+$("#jdAdSlide img").each(function(index, image) {
+    var id = "adImage" + index;
+    htmlAdBtn = htmlAdBtn + '<a href="javascript:" class="jd_ad_btn_a" data-rel="'+ id +'">'+ (index + 1) +'</a>';
+    image.id = id;
+});
+$("#jdAdBtn").html(htmlAdBtn).find("a").powerSwitch({
+    eventType: "hover",
+    classAdd: "active",
+    animation: "fade",
+    autoTime: 5000,
+    onSwitch: function(image) {
+        if (!image.attr("src")) {
+            image.attr("src", image.attr("data-src"));  
+        }
+    }
+}).eq(0).trigger("mouseover");
+
+// 便民服务
+$("#servNav a").powerSwitch({
+    classAdd: "active",
+    eventType: "hover",
+    onSwitch: function() {
+        $("#pointLine").animate({ "left": $(this).position().left}, 200);
+    }
+});
+
+
+
+
+
+宁夏大学党建网
+宁夏大学新闻网
+
+
+微信 
+新浪微博 
+宁夏大学党建网 
+宁夏大学新闻网 window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+

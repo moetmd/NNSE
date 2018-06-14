@@ -1,0 +1,124 @@
+香港树仁大学学生代表团到我校交流学习【宁夏大学新闻中心讯 团委 对外合作交流处】6月8日，香港树仁大学师生代表一行32人来我校交流学习，对外合作交流处、校团委、学生会热情开展接待并安排了一系列交流活动。
+上午，树仁大学代表团来到贺兰山校区行政楼与我校志愿者们共同参加了“‘一带一路’与宁夏的担当”主题分享交流活动，通过听取报告和双方同学们的热烈交流，树仁大学的同学们更加了解了宁夏在“一带一路”建设中的责任担当。
+
+随后，在志愿者的带领下，树仁大学代表们登上了贺兰山校区行政楼天台俯瞰宁大全景，在志愿者的介绍下了解了我校校园建设，领略了宁大的校园风采。
+
+为了让香港的同学们更加了解我校的校园文化，短暂的午休过后，香港树仁大学学生代表们对我校校园文化建设进行了考察交流。
+在文萃校区大学生活动心，树仁大学代表团在志愿者的陪同下参观了我校大学生艺术团管乐队的排练现场和政法学院送老生晚会的彩排现场，感受了我校多姿多彩的校园文化;在大益爱心茶室，淡淡的茶香和优雅的茶艺表演让同学们零距离感受了中华茶文化的博大精深;在国防生宿舍楼和科技楼，同学们不仅感受到了我校对国防力量和科技人才培养的重视，也对大陆相关政策在高校的执行有了进一步的了解。
+
+
+
+随后，两校学子在怀远校区校园文化广场咖啡屋举办了一场交流派对。宁夏花儿、藏族舞蹈、古筝弹奏和舞剑表演等节目精彩纷呈，两校学生深入交流，共同游戏，互赠礼品，展示才艺，一次次点燃了两校学子的热情。
+
+
+本次交流活动的举办进一步加强了我校与香港树仁大学之间的友谊，同时也使香港学子进一步了解了中国大陆西部地区高校的发展状况，加深了香港来访同学对大陆的了解，增强了同学们对祖国的认同感。
+ 
+        
+        上一条：学校召开学习贯彻全国科技创新大会重要精神座谈会
+
+        下一条：宁夏“泰昇祥”杯第二届“互联网+”大学生创新创业大赛区级复赛在我校顺利进行
+    
+    
+        function dosubc42633()
+        {
+            try{
+                var ua = navigator.userAgent.toLowerCase();
+                if(ua.indexOf("msie 8")>-1)
+                {
+                    window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+                }else{
+                    if (document.all) 
+                    {
+                        window.external.addFavorite(document.location.href, document.title);
+                    }else if(window.sidebar)
+                    {
+                        window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+                    }
+                }
+        
+            }
+            catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+        }
+       【打印】
+               
+function printme()
+{
+document.body.innerHTML=document.getElementById('div1').innerHTML;
+window.print();
+}
+
+          【收藏】  【关闭】
+
+
+
+
+
+
+ 新闻网
+    
+ 信息门户
+    
+ 科研平台
+    
+ 学工系统
+    
+ 本科招生
+    
+ 教务系统
+    
+ 校园宣传审批系统
+    
+ 网络服务
+    
+ 校友网
+    
+ 邮箱登陆
+    
+ 站群检索
+    
+
+
+
+地址：宁夏银川市西夏区贺兰山西路489号　邮编：750021  电话：0951-2077800 宁ICP备05002185  Copyright © 宁夏大学  技术支持：网络与信息管理中心
+// 大的图片广告
+// 根据图片创建id,按钮元素等，实际开发建议使用JSON数据类似
+var htmlAdBtn = '';
+$("#jdAdSlide img").each(function(index, image) {
+    var id = "adImage" + index;
+    htmlAdBtn = htmlAdBtn + '<a href="javascript:" class="jd_ad_btn_a" data-rel="'+ id +'">'+ (index + 1) +'</a>';
+    image.id = id;
+});
+$("#jdAdBtn").html(htmlAdBtn).find("a").powerSwitch({
+    eventType: "hover",
+    classAdd: "active",
+    animation: "fade",
+    autoTime: 5000,
+    onSwitch: function(image) {
+        if (!image.attr("src")) {
+            image.attr("src", image.attr("data-src"));  
+        }
+    }
+}).eq(0).trigger("mouseover");
+
+// 便民服务
+$("#servNav a").powerSwitch({
+    classAdd: "active",
+    eventType: "hover",
+    onSwitch: function() {
+        $("#pointLine").animate({ "left": $(this).position().left}, 200);
+    }
+});
+
+
+
+
+
+宁夏大学党建网
+宁夏大学新闻网
+
+
+微信 
+新浪微博 
+宁夏大学党建网 
+宁夏大学新闻网 window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+

@@ -1,0 +1,6 @@
+我校研究人员在异相结构硫化镉光催化CO2转化方面取得新进展【宁夏大学新闻中心讯  化学化工学院】近日，英国皇家化学会RSC旗下国际期刊《Catalysis Science & Technology》（2017年即时影响因子5.773）发表了我校化学化工学院梁军、李莉老师课题组在二氧化碳加水制碳基燃料的光催化剂设计及性能调控方面取得的最新研究进展“TEOA-induced in situ formation of wurtzite and zinc-blende CdS heterstructures as a high-active and long-lasting photocatalyst for converting CO2 into solar fuel”(2018, DOI: 10.1039/C8CY00274F)。 
+CO2是有机物燃烧的最终产物，所以其到有机燃料的逆转化无疑具有极大的热力学障碍。以最具吸引力的CO2和H2O合成甲烷和氧气的反应为例，其ΔG高达889.6 kJˑmol-1。而模拟植物光合作用的人工光合成是CO2转化和利用的创新技术，它利用太阳能激发半导体光催化材料产生光生电子-空穴，以诱发氧化-还原反应将CO2和H2O反应合成碳基燃料。最近，课题组通过调控合成液的pH值并结合水热合成参数控制，诱使hexagonal wurtzite CdS原位向cubic zinc-blende CdS定向转化，成功制得了具有异相结构可调的wurtzite/zinc-blende CdS复合光催化剂。通过TEOA用量和水热时间的调变及优化，系统研究了不同异相结构的CdS复合光催化剂可见光催化转化CO2与H2O制碳基燃料的催化性能；同时发现“结”的存在能够有效缓解CdS光催化剂的光腐蚀，继而在连续反应100 h其可见光光催化还原CO2活性几乎不发生衰减。 
+
+  
+该工作在梁军、李莉老师指导下由2015级硕士生柴尧（第一作者）和2016级硕士生李德利、芦佳雪等同学协作完成。研究工作得到化学工程与技术一流学科（优秀青年支持计划）、国家自然科学基金和西部一流创新项目资助和支持。 
+论文链接http://dx.doi.org/10.1039/C8CY00274F

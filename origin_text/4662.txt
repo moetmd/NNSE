@@ -1,0 +1,122 @@
+我校召开推进哲学社会科学科研工作座谈会【宁夏大学新闻中心讯 刘斌/文 张景/图】6月3日，学习贯彻习近平总书记重要讲话精神，加快推进我校哲学社会科学科研工作座谈会在贺兰山校区行政主楼10楼会议室召开。座谈会由许兴副校长主持。
+
+会上，许兴传达学习了习近平总书记在哲学社会科学工作座谈会上的重要讲话精神。回顾了我校“十二五”期间哲学社会科学科研平台建设、科研立项和科研成果等方面取得的成绩，分析了我校存在的问题，交流了“十三五”哲学社会科学科研工作的整体思考。
+
+西夏学研究院院长杜建录、人文学院院长胡玉冰、马克思主义学院院长李斌、外国语学院院长周震、新闻与传播学院书记周强、西部发展研究中心主任黄立军、体育学院教师马兆明、教育学院教师焦岩岩、外国语学院教师洪春梅等分别进行了座谈交流，他们结合习总书记在哲学社会科学工作座谈会上的讲话精神，围绕宁夏大学哲学社会科学科研组织模式创新、重大项目策划申报、科研成果评价及奖励等主题展开了交流讨论。
+科技处处长李学斌，副处长赵军表示要强化沟通、抢抓机遇，做好科研管理服务工作，并对大家关心的具体问题进行了回应。
+许兴强调，要加强我校“十三五”哲学社会科学科研规划工作;各单位要整合资源，协同创新，组织申报重大项目;要逐步完善哲学社会科学的科研评价，规范科研项目管理，进一步提高科研管理水平;科研工作要为把宁夏大学建成“双一流”大学提供有力支撑。
+(责任编辑：徐静)
+ 
+        
+        上一条：我校召开第四轮学科评估工作推进会
+
+        下一条：畅谈博者人生感悟学术大道
+								
+								
+								
+									——宁夏大学金波论坛第165期开讲
+    
+    
+        function dosubc42633()
+        {
+            try{
+                var ua = navigator.userAgent.toLowerCase();
+                if(ua.indexOf("msie 8")>-1)
+                {
+                    window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+                }else{
+                    if (document.all) 
+                    {
+                        window.external.addFavorite(document.location.href, document.title);
+                    }else if(window.sidebar)
+                    {
+                        window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+                    }
+                }
+        
+            }
+            catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+        }
+       【打印】
+               
+function printme()
+{
+document.body.innerHTML=document.getElementById('div1').innerHTML;
+window.print();
+}
+
+          【收藏】  【关闭】
+
+
+
+
+
+
+ 新闻网
+    
+ 信息门户
+    
+ 科研平台
+    
+ 学工系统
+    
+ 本科招生
+    
+ 教务系统
+    
+ 校园宣传审批系统
+    
+ 网络服务
+    
+ 校友网
+    
+ 邮箱登陆
+    
+ 站群检索
+    
+
+
+
+地址：宁夏银川市西夏区贺兰山西路489号　邮编：750021  电话：0951-2077800 宁ICP备05002185  Copyright © 宁夏大学  技术支持：网络与信息管理中心
+// 大的图片广告
+// 根据图片创建id,按钮元素等，实际开发建议使用JSON数据类似
+var htmlAdBtn = '';
+$("#jdAdSlide img").each(function(index, image) {
+    var id = "adImage" + index;
+    htmlAdBtn = htmlAdBtn + '<a href="javascript:" class="jd_ad_btn_a" data-rel="'+ id +'">'+ (index + 1) +'</a>';
+    image.id = id;
+});
+$("#jdAdBtn").html(htmlAdBtn).find("a").powerSwitch({
+    eventType: "hover",
+    classAdd: "active",
+    animation: "fade",
+    autoTime: 5000,
+    onSwitch: function(image) {
+        if (!image.attr("src")) {
+            image.attr("src", image.attr("data-src"));  
+        }
+    }
+}).eq(0).trigger("mouseover");
+
+// 便民服务
+$("#servNav a").powerSwitch({
+    classAdd: "active",
+    eventType: "hover",
+    onSwitch: function() {
+        $("#pointLine").animate({ "left": $(this).position().left}, 200);
+    }
+});
+
+
+
+
+
+宁夏大学党建网
+宁夏大学新闻网
+
+
+微信 
+新浪微博 
+宁夏大学党建网 
+宁夏大学新闻网 window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+

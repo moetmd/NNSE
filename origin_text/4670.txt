@@ -1,0 +1,119 @@
+中央来宁博士服务团进校园系列讲座第四场开讲【宁夏大学新闻中心讯 张新民 芦雅新 李淑婷/文 高民晓/图】6月1日下午，中央来宁“博士服务团”成员、国家银监会融资担保部处长樊卫东博士，在贺兰山校区文科楼一楼报告厅作了“从新金融到小微企业融资”的学术讲座。
+讲座中，樊卫东博士以当今新金融兴起为背景，以小微企业融资现状为衔接、现阶段融资原因为主体、融资工具分析为核心，以解决措施为补充，描述了在我国新金融出现并蓬勃发展的态势下，小微企业拥有更为广阔的发展平台。在报告中，樊卫东博士旁征博引、侃侃而谈。生动展现了用户支付、融资、风险管理和投资理财四种最基本的金融需求，给人们一个概念构画，然后将传统金融服务模式与互联网金融业务服务方式进行比较，通过例举银行服务现状与现阶段互联网背景下新的融资工具，提出了从新金融到小微企业融资的研究报告。图文并茂的PPT演示，清晰地阐释了极其专业费解的金融体系，从案例分析入手，简要概括了金融领域发展与大众创新迎来机遇的潜在关联与俘获基层企业的情况，提纲挈领地指出了目前新金融与企业密切相关的研究背景和发展方向。樊卫东博士的报告逻辑严密、层层递进，给出了未来小微企业应用新金融发展强大自身的研究前景。以丰富的实验数据和契合的企业实际举例，使听众不仅了解了目前我国金融学科领域的最新动态，更对自身如何使创业创新梦想落地、生根、发芽增强了信心。
+
+
+
+“博士服务团”是中组部、团中央贯彻落实西部大开发战略和人才强国战略，为西部地区提供人才和智力支持而实施的品牌工程。樊卫东博士认为：一个人的力量总是单枪匹马，众人齐心才能移山填海。要想真正实现人才培养与智力提升，落地实施西部人才战略，必须培养一大批有素质，有抱负，有理想，有闯劲的企业人才或创业达人，让他们接收最新最前沿的经济发展信息，在详细了解我国金融领域发展现状的同时，运用理性的思维以及市场大数据量化建模分析，挖掘内在隐藏规律，服务自己的就业创业梦想，从而实现整体的战略推进。
+据悉，本场讲座是我校中央来宁“博士服务团”进校园活动第四场。经济管理学院主要负责人、全体教师、硕士研究生及不同年级不同专业的本科生聆听了讲座。
+相关链接：
+樊卫东博士为第16批中央组织部博士服务团成员、国家银监会融资担保部处长，现挂职于宁夏自治区金融工作局任副局长、党组成员。主要研究方向为金融经济。1988至1992年就读于西安冶金建筑学院，1994至1997年为西北大学硕士研究生，1999至2002年攻读中国社会科学院博士研究生。
+ 
+        
+        上一条：我校“一带一路上的文化——中阿文化交流数据库”喜获文化部立项支持
+
+        下一条：教育部留学服务中心在我校举办2016年“平安留学”出国留学行前培训会
+    
+    
+        function dosubc42633()
+        {
+            try{
+                var ua = navigator.userAgent.toLowerCase();
+                if(ua.indexOf("msie 8")>-1)
+                {
+                    window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+                }else{
+                    if (document.all) 
+                    {
+                        window.external.addFavorite(document.location.href, document.title);
+                    }else if(window.sidebar)
+                    {
+                        window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+                    }
+                }
+        
+            }
+            catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+        }
+       【打印】
+               
+function printme()
+{
+document.body.innerHTML=document.getElementById('div1').innerHTML;
+window.print();
+}
+
+          【收藏】  【关闭】
+
+
+
+
+
+
+ 新闻网
+    
+ 信息门户
+    
+ 科研平台
+    
+ 学工系统
+    
+ 本科招生
+    
+ 教务系统
+    
+ 校园宣传审批系统
+    
+ 网络服务
+    
+ 校友网
+    
+ 邮箱登陆
+    
+ 站群检索
+    
+
+
+
+地址：宁夏银川市西夏区贺兰山西路489号　邮编：750021  电话：0951-2077800 宁ICP备05002185  Copyright © 宁夏大学  技术支持：网络与信息管理中心
+// 大的图片广告
+// 根据图片创建id,按钮元素等，实际开发建议使用JSON数据类似
+var htmlAdBtn = '';
+$("#jdAdSlide img").each(function(index, image) {
+    var id = "adImage" + index;
+    htmlAdBtn = htmlAdBtn + '<a href="javascript:" class="jd_ad_btn_a" data-rel="'+ id +'">'+ (index + 1) +'</a>';
+    image.id = id;
+});
+$("#jdAdBtn").html(htmlAdBtn).find("a").powerSwitch({
+    eventType: "hover",
+    classAdd: "active",
+    animation: "fade",
+    autoTime: 5000,
+    onSwitch: function(image) {
+        if (!image.attr("src")) {
+            image.attr("src", image.attr("data-src"));  
+        }
+    }
+}).eq(0).trigger("mouseover");
+
+// 便民服务
+$("#servNav a").powerSwitch({
+    classAdd: "active",
+    eventType: "hover",
+    onSwitch: function() {
+        $("#pointLine").animate({ "left": $(this).position().left}, 200);
+    }
+});
+
+
+
+
+
+宁夏大学党建网
+宁夏大学新闻网
+
+
+微信 
+新浪微博 
+宁夏大学党建网 
+宁夏大学新闻网 window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+

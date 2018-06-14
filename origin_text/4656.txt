@@ -1,0 +1,114 @@
+区社科联主席杨占武做客阿拉伯学大讲堂第九讲【宁夏大学新闻中心讯 阿拉伯学院 丁娜/文】5月20日下午，由校科技处、阿拉伯学院、中国阿拉伯国家研究院、回族研究院主办的阿拉伯学大讲堂第九讲成功举办。本次讲堂邀请宁夏社科联主席杨占武研究员作了题为“中国-阿拉伯国家博览会及宁夏发展的历史机遇”的学术讲座。讲座由谢应忠副校长主持。
+杨占武分别从中阿博览会的由来、抢抓宁夏发展的机遇、中阿博览会的走向等三个方面介绍了中阿博览会。他深入地分析了中阿博览会的发展历程，全面展示了博览会取得的丰硕成果，阐释了宁夏作为内陆地区所面临的机遇和挑战。最后，杨占武结合“一带一路”战略与中阿合作分析了中阿博览会今后的发展方向。
+来自阿拉伯学院、中国阿拉伯国家研究院、回族研究院、教育学院、政法学院、经济管理学院、人文学院等学院的师生就加强与阿拉伯国家合作问题与杨占武研究员展开了热烈的交流讨论。
+（责任编辑：徐静）
+ 
+        
+        上一条：我校第三届“联通杯”文明交通演讲比赛决赛圆满落幕
+
+        下一条：校领导与毕业生代表面对面座谈
+    
+    
+        function dosubc42633()
+        {
+            try{
+                var ua = navigator.userAgent.toLowerCase();
+                if(ua.indexOf("msie 8")>-1)
+                {
+                    window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+                }else{
+                    if (document.all) 
+                    {
+                        window.external.addFavorite(document.location.href, document.title);
+                    }else if(window.sidebar)
+                    {
+                        window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+                    }
+                }
+        
+            }
+            catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+        }
+       【打印】
+               
+function printme()
+{
+document.body.innerHTML=document.getElementById('div1').innerHTML;
+window.print();
+}
+
+          【收藏】  【关闭】
+
+
+
+
+
+
+ 新闻网
+    
+ 信息门户
+    
+ 科研平台
+    
+ 学工系统
+    
+ 本科招生
+    
+ 教务系统
+    
+ 校园宣传审批系统
+    
+ 网络服务
+    
+ 校友网
+    
+ 邮箱登陆
+    
+ 站群检索
+    
+
+
+
+地址：宁夏银川市西夏区贺兰山西路489号　邮编：750021  电话：0951-2077800 宁ICP备05002185  Copyright © 宁夏大学  技术支持：网络与信息管理中心
+// 大的图片广告
+// 根据图片创建id,按钮元素等，实际开发建议使用JSON数据类似
+var htmlAdBtn = '';
+$("#jdAdSlide img").each(function(index, image) {
+    var id = "adImage" + index;
+    htmlAdBtn = htmlAdBtn + '<a href="javascript:" class="jd_ad_btn_a" data-rel="'+ id +'">'+ (index + 1) +'</a>';
+    image.id = id;
+});
+$("#jdAdBtn").html(htmlAdBtn).find("a").powerSwitch({
+    eventType: "hover",
+    classAdd: "active",
+    animation: "fade",
+    autoTime: 5000,
+    onSwitch: function(image) {
+        if (!image.attr("src")) {
+            image.attr("src", image.attr("data-src"));  
+        }
+    }
+}).eq(0).trigger("mouseover");
+
+// 便民服务
+$("#servNav a").powerSwitch({
+    classAdd: "active",
+    eventType: "hover",
+    onSwitch: function() {
+        $("#pointLine").animate({ "left": $(this).position().left}, 200);
+    }
+});
+
+
+
+
+
+宁夏大学党建网
+宁夏大学新闻网
+
+
+微信 
+新浪微博 
+宁夏大学党建网 
+宁夏大学新闻网 window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+

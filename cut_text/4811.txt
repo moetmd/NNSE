@@ -1,0 +1,113 @@
+国家 科技 支撑 计划 项目 “ 西部 生态 城镇 与 绿色 建筑 技术 集成 研究 与 工程 示范 ” ... 【 宁夏大学 新闻 中心 讯   科技处 】 由 我校 和 中国 建筑 西南 设计 研究院 有限公司 共同 主持 的 国家 科技 支撑 计划 项目 “ 西部 生态 城镇 与 绿色 建筑 技术 集成 研究 与 工程 示范 ” 于 5 月 10 至 23 日 先后 在 新疆 、 西藏 、 青海 ， 四川 、 宁夏 等 地 进行 课题 现场 勘验 ， 近日 在 银川 举行 项目 验收 会 ， 此次 项目 验收 会 由 科技部 委托 自治区 科技厅 负责 ， 验收组 由 来自 全国 的 9 位 专家 组成 ， 专家组 听取 了 6 个 课题 汇报 、 审阅 有关 资料 ， 经 质询 和 讨论 后 专家组 一致 认为 该 项目 完成 计划 任务 ， 同意 结题 验收 。 
+ 由 我校 田军 仓 教授 和 贺生云 教授 共同 主持 的 课题 “ 干旱区 城镇 绿色 建筑 技术 集成 研究 与 示范 ”   ， 结合 宁夏 干旱气候 特点 和 风俗 民情 ， 重点 开展 了 干旱区 绿色 建筑设计 技术 、 低能耗 建筑 一体化 集成 技术 、 绿色 建筑 室内环境 控制 和 改善 关键技术 研究 ; 建立 了 干旱区 城镇 低层 住宅 和 小 高层住宅 绿色 建筑 技术 集成 示范 ， 并 编制 了 地方 绿色 建筑 相关 标准 ( 审批 稿 ) ; 利用 当地 的 粉煤灰 等 工业 废弃物 ， 研发 了 新型 轻质 混凝土 墙板 ， 将 集热 蓄热 墙 + 附加 阳光 间 + 地面 层 保温 蓄热 技术 与 太阳能 光热 光伏 技术相结合 ， 自主 研发 了 槽式 型 和 自动 型 加湿 降尘 窗 装置 、 细水 喷雾 加湿 防沙 装置 、 防 风沙 新风 换气 系统 、 建筑 室内环境 集成 智能 监控 系统 ， 建立 了 基于 雨水 收集 和 利用 、 污水处理 和 中水 回用 、 节水 灌溉 与 庭院 绿化 的 绿色 建筑 节水 和 水 处理 集成 技术 模式 ， 并 在 示范 工程 中 应用 。 课题 得到 与会 专家 的 充分肯定 。 
+ （ 责任编辑 ： 胡玥 ） 
+   
+                 
+                 上 一条 ： 第三届 “ 三走 ” 活动 之 “ 爱 我 中华民族 风 ” 少数民族 运动 项目 体验 营 落幕 
+ 
+                 下 一条 ： 首届 “ 明德 杯 ” 师范生 教学 技能 大赛 举行 
+         
+         
+                 function   dosubc42633 ( ) 
+                 { 
+                         try { 
+                                 var   ua   =   navigator . userAgent . toLowerCase ( ) ; 
+                                 if ( ua . indexOf ( " msie   8 " ) > - 1 ) 
+                                 { 
+                                         window . external . AddToFavoritesBar ( document . location . href , document . title , " " ) ; / / IE8 
+                                 } else { 
+                                         if   ( document . all )   
+                                         { 
+                                                 window . external . addFavorite ( document . location . href ,   document . title ) ; 
+                                         } else   if ( window . sidebar ) 
+                                         { 
+                                                 window . sidebar . addPanel (   document . title ,   document . location . href ,   " " ) ; / / firefox 
+                                         } 
+                                 } 
+                 
+                         } 
+                         catch   ( e ) { alert ( " 无法 自动 添加 到 收藏夹 ， 请 使用   Ctrl   +   d   手动 添加 " ) ; } 
+                 } 
+               【 打印 】 
+                               
+ function   printme ( ) 
+ { 
+ document . body . innerHTML = document . getElementById ( ' div1 ' ) . innerHTML ; 
+ window . print ( ) ; 
+ } 
+ 
+                     【 收藏 】     【 关闭 】 
+ 
+ 
+ 
+ 
+ 
+ 
+   新闻网 
+         
+   信息 门户 
+         
+   科研 平台 
+         
+   学工 系统 
+         
+   本科 招生 
+         
+   教务 系统 
+         
+   校园 宣传 审批 系统 
+         
+   网络服务 
+         
+   校友网 
+         
+   邮箱 登陆 
+         
+   站 群 检索 
+         
+ 
+ 
+ 
+ 地址 ： 宁夏 银川市 西夏区 贺兰山 西路 489 号 　 邮编 ： 750021     电话 ： 0951 - 2077800   宁 ICP 备 05002185     Copyright   ©   宁夏大学     技术支持 ： 网络 与 信息管理 中心 
+ / /   大 的 图片 广告 
+ / /   根据 图片 创建 id , 按钮 元素 等 ， 实际 开发 建议 使用 JSON 数据 类似 
+ var   htmlAdBtn   =   ' ' ; 
+ $ ( " # jdAdSlide   img " ) . each ( function ( index ,   image )   { 
+         var   id   =   " adImage "   +   index ; 
+         htmlAdBtn   =   htmlAdBtn   +   ' < a   href = " javascript : "   class = " jd _ ad _ btn _ a "   data - rel = " ' +   id   + ' " > ' +   ( index   +   1 )   + ' < / a > ' ; 
+         image . id   =   id ; 
+ } ) ; 
+ $ ( " # jdAdBtn " ) . html ( htmlAdBtn ) . find ( " a " ) . powerSwitch ( { 
+         eventType :   " hover " , 
+         classAdd :   " active " , 
+         animation :   " fade " , 
+         autoTime :   5000 , 
+         onSwitch :   function ( image )   { 
+                 if   ( ! image . attr ( " src " ) )   { 
+                         image . attr ( " src " ,   image . attr ( " data - src " ) ) ;     
+                 } 
+         } 
+ } ) . eq ( 0 ) . trigger ( " mouseover " ) ; 
+ 
+ / /   便民服务 
+ $ ( " # servNav   a " ) . powerSwitch ( { 
+         classAdd :   " active " , 
+         eventType :   " hover " , 
+         onSwitch :   function ( )   { 
+                 $ ( " # pointLine " ) . animate ( {   " left " :   $ ( this ) . position ( ) . left } ,   200 ) ; 
+         } 
+ } ) ; 
+ 
+ 
+ 
+ 
+ 
+ 宁夏大学 党建网 
+ 宁夏大学 新闻网 
+ 
+ 
+ 微信   
+ 新浪 微博   
+ 宁夏大学 党建网   
+ 宁夏大学 新闻网   window ._ bd _ share _ config = { " common " : { " bdSnsKey " : { } , " bdText " : " " , " bdMini " : " 1 " , " bdMiniList " : false , " bdPic " : " " , " bdStyle " : " 1 " , " bdSize " : " 24 " } , " share " : { } } ; with ( document ) 0 [ ( getElementsByTagName ( ' head ' ) [ 0 ] | | body ) . appendChild ( createElement ( ' script ' ) ) . src = ' http : / / bdimg . share . baidu . com / static / api / js / share . js ? v = 89860593 . js ? cdnversion = ' + ~ ( - new   Date ( ) / 36e5 ) ] ; 
+ 

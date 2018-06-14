@@ -1,0 +1,122 @@
+宁夏大学 “ 两节 ” 之 “ 燕宝 爱心 在 行动 ” 第一届 公益行 系列 活动 拉开序幕 【 宁夏大学 新闻 中心 讯   团委 】 5 月 7 日至 8 日 ， 由 校团委 主办 ， 宁夏 燕宝 慈善 基金会 、 宁夏大学 学生会 社团 联合会 以及 各 爱心 公益 社团 承办 的 宁夏大学 “ 两节 ” 之 “ 燕宝 爱心 在 行动 ” 第一届 公益行 系列 活动 在 各 公益活动 点 分组 进行 。 
+ 
+ 此次 活动 由 新 长城 自强 社 、 仙人掌 环保 协会 、 小小鸟 助残 志愿 社 、 阳光 爱心 社等 8 个 学生 社团 携手 开展 ， 我校 获得 “ 燕宝 奖学金 ” 的 大学生 及 志愿者 分赴 银川市 特殊教育 学校 、 西夏区 辛平 家园 残疾儿童 托养 中心 、 亲情 一家 敬老院 以及 彩虹 湾 社区 、 建设 巷 社区 、 星光 社区 等 地 ， 组织 开展 了 爱心 敬老 、 儿童 关怀 、 公益 环保 、 知识 传播 、 健康 社区 、 法制宣传 等 服务 活动 。 
+ 
+ 
+ 
+ 
+ 近年来 ， 我校 受助 大学生 积极 参加 各类 爱心 公益活动 ， 通过 各种渠道 和 方式 向 学校 及 社会 积极 回馈 ， 不断 传递 爱心 ， 弘扬 公益 精神 。 活动 的 举办 增强 了 我校 大学生 热心 公益 、 传递 爱心 的 意识 ， 展现出 他们 积极 回馈 社会 、 服务 社会 的 良好 精神风貌 。 
+ 
+ 据悉 ， 此次 活动 得到 了 宁夏 燕宝 慈善 基金会 的 大力支持 ， 是 “ 燕宝 爱心 在 行动 ” 的 分项 活动 。 燕宝 基金会 成立 以来 ， 积极 投身 公益 助学 事业 ， 在 社会各界 产生 了 极大 的 影响 。 
+ 
+ （ 责任编辑 ： 徐静 ） 
+   
+                 
+                 上 一条 ： 我校 幼儿园 成功 举办 “ 青春 无限   弘扬 美德 ” 教师 辩论赛 
+ 
+                 下 一条 ： 学校 第七届 教职工 代表大会 第四次 会议 召开 
+         
+         
+                 function   dosubc42633 ( ) 
+                 { 
+                         try { 
+                                 var   ua   =   navigator . userAgent . toLowerCase ( ) ; 
+                                 if ( ua . indexOf ( " msie   8 " ) > - 1 ) 
+                                 { 
+                                         window . external . AddToFavoritesBar ( document . location . href , document . title , " " ) ; / / IE8 
+                                 } else { 
+                                         if   ( document . all )   
+                                         { 
+                                                 window . external . addFavorite ( document . location . href ,   document . title ) ; 
+                                         } else   if ( window . sidebar ) 
+                                         { 
+                                                 window . sidebar . addPanel (   document . title ,   document . location . href ,   " " ) ; / / firefox 
+                                         } 
+                                 } 
+                 
+                         } 
+                         catch   ( e ) { alert ( " 无法 自动 添加 到 收藏夹 ， 请 使用   Ctrl   +   d   手动 添加 " ) ; } 
+                 } 
+               【 打印 】 
+                               
+ function   printme ( ) 
+ { 
+ document . body . innerHTML = document . getElementById ( ' div1 ' ) . innerHTML ; 
+ window . print ( ) ; 
+ } 
+ 
+                     【 收藏 】     【 关闭 】 
+ 
+ 
+ 
+ 
+ 
+ 
+   新闻网 
+         
+   信息 门户 
+         
+   科研 平台 
+         
+   学工 系统 
+         
+   本科 招生 
+         
+   教务 系统 
+         
+   校园 宣传 审批 系统 
+         
+   网络服务 
+         
+   校友网 
+         
+   邮箱 登陆 
+         
+   站 群 检索 
+         
+ 
+ 
+ 
+ 地址 ： 宁夏 银川市 西夏区 贺兰山 西路 489 号 　 邮编 ： 750021     电话 ： 0951 - 2077800   宁 ICP 备 05002185     Copyright   ©   宁夏大学     技术支持 ： 网络 与 信息管理 中心 
+ / /   大 的 图片 广告 
+ / /   根据 图片 创建 id , 按钮 元素 等 ， 实际 开发 建议 使用 JSON 数据 类似 
+ var   htmlAdBtn   =   ' ' ; 
+ $ ( " # jdAdSlide   img " ) . each ( function ( index ,   image )   { 
+         var   id   =   " adImage "   +   index ; 
+         htmlAdBtn   =   htmlAdBtn   +   ' < a   href = " javascript : "   class = " jd _ ad _ btn _ a "   data - rel = " ' +   id   + ' " > ' +   ( index   +   1 )   + ' < / a > ' ; 
+         image . id   =   id ; 
+ } ) ; 
+ $ ( " # jdAdBtn " ) . html ( htmlAdBtn ) . find ( " a " ) . powerSwitch ( { 
+         eventType :   " hover " , 
+         classAdd :   " active " , 
+         animation :   " fade " , 
+         autoTime :   5000 , 
+         onSwitch :   function ( image )   { 
+                 if   ( ! image . attr ( " src " ) )   { 
+                         image . attr ( " src " ,   image . attr ( " data - src " ) ) ;     
+                 } 
+         } 
+ } ) . eq ( 0 ) . trigger ( " mouseover " ) ; 
+ 
+ / /   便民服务 
+ $ ( " # servNav   a " ) . powerSwitch ( { 
+         classAdd :   " active " , 
+         eventType :   " hover " , 
+         onSwitch :   function ( )   { 
+                 $ ( " # pointLine " ) . animate ( {   " left " :   $ ( this ) . position ( ) . left } ,   200 ) ; 
+         } 
+ } ) ; 
+ 
+ 
+ 
+ 
+ 
+ 宁夏大学 党建网 
+ 宁夏大学 新闻网 
+ 
+ 
+ 微信   
+ 新浪 微博   
+ 宁夏大学 党建网   
+ 宁夏大学 新闻网   window ._ bd _ share _ config = { " common " : { " bdSnsKey " : { } , " bdText " : " " , " bdMini " : " 1 " , " bdMiniList " : false , " bdPic " : " " , " bdStyle " : " 1 " , " bdSize " : " 24 " } , " share " : { } } ; with ( document ) 0 [ ( getElementsByTagName ( ' head ' ) [ 0 ] | | body ) . appendChild ( createElement ( ' script ' ) ) . src = ' http : / / bdimg . share . baidu . com / static / api / js / share . js ? v = 89860593 . js ? cdnversion = ' + ~ ( - new   Date ( ) / 36e5 ) ] ; 
+ 

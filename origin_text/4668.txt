@@ -1,0 +1,129 @@
+教育部留学服务中心在我校举办2016年“平安留学”出国留学行前培训会【宁夏大学新闻中心讯 胡玥 冯汝源/文 对外合作交流处/图】6月1日，教育部留学服务中心丁莉处长一行六人来访我校，并为宁夏区内公派留学人员、广大自费留学人员、有关高校负责公派出国留学的工作人员以及宁夏自费留学中介机构、协会等11家单位开展了出国留学行前培训会。这是教育部留学服务中心首次在宁夏举办出国留学行前培训会，我校是此次活动的协办单位之一。
+我校副校长谢应忠、自治区教育厅国际合作交流处处长孙忠铭、我校对外合作交流处处长高桂英及11家与会学员单位参加了培训会。教育部留学服务中心丁莉处长主持了会议。
+会上，谢应忠对教育部留学服务中心一行的到来表示热烈的欢迎。他指出，出国留学行前培训工作作为出国留学派出工作的重要组成部分，对于倡导"平安留学"理念、保障出国留学师生的权益有重大意义。他还结合自己的留学经历，就师生们如何融入到国外的学习生活，尽快适应环境提出建议。
+孙忠铭希望所有出国留学人员通过此次培训会能更好更快的适应异国的学习生活，安全、圆满地完成学业回国服务。
+随后，河北师范大学心理学教授王宏方进行了心理健康知识讲座。王教授采用真实生动的案例，通过与现场学员互动，深入浅出地为学员进行留学在外生活学习的心理辅导，学员们受益匪浅。
+
+
+北京中医药大学教授赵岩松开展了国外学习、生活日常保健常识讲座。赵教授倡导“健康留学”理念，向与会者介绍了一些常见病的备用药品和日常保健知识，提醒大家重视身体健康，加强体育锻炼，指导他们如何正确及时就医。
+德威集团安保教官陈天宇、唐娟在现场开展了安保实操培训，结合实际案例，讲解了如何合理采取公共安全防范措施，提高境外公共安全风险应急处理能力。二位教官进行了留学安全实操训练演示，讲解了枪击、爆炸、火灾等突发性事件的应对方法，并告诫学员提高安全防范意识，真正落实“平安留学”理念。
+
+
+
+教育部留学服务中心丁莉处长就有关公派留学派出手续办理流程及有关规定进行了详细介绍。教育厅国际合作交流处梁彩梅就国家公派各项目进行了逐一介绍。
+培训会现场还向参会学员和参会单位发放了出国留学行前培训工作调查表，征集意见和建议。
+2016年“平安留学”出国留学行前培训工作对完善留学服务体系，推动出国留学行前培训工作的持续稳步发展具有重要意义。教育部留学服务中心通过各地资源优势，积极开展形式多样、内容丰富、讲求实效的各类出国留学行前培训活动。在全国34个城市组织开展共计80余场出国留学行前培训会，在北京开展国家公派留学人员团组项目培训会共计50余场。
+
+
+此次在我校举办的培训会，学员参与热情高涨，现场积极互动，并对细心、周到、贴心、实用的培训内容和生动的现场培训方式纷纷点赞。与会单位也表示此次培训对今后出国留学工作有较大启示，也对规范全区公派留学人员培训和管理工作有重要的指导意义。
+（责任编辑：陈建丽）
+ 
+        
+        上一条：中央来宁博士服务团进校园系列讲座第四场开讲
+
+        下一条：宁夏日报：宁大党员发展对象体验环卫工作
+    
+    
+        function dosubc42633()
+        {
+            try{
+                var ua = navigator.userAgent.toLowerCase();
+                if(ua.indexOf("msie 8")>-1)
+                {
+                    window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+                }else{
+                    if (document.all) 
+                    {
+                        window.external.addFavorite(document.location.href, document.title);
+                    }else if(window.sidebar)
+                    {
+                        window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+                    }
+                }
+        
+            }
+            catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+        }
+       【打印】
+               
+function printme()
+{
+document.body.innerHTML=document.getElementById('div1').innerHTML;
+window.print();
+}
+
+          【收藏】  【关闭】
+
+
+
+
+
+
+ 新闻网
+    
+ 信息门户
+    
+ 科研平台
+    
+ 学工系统
+    
+ 本科招生
+    
+ 教务系统
+    
+ 校园宣传审批系统
+    
+ 网络服务
+    
+ 校友网
+    
+ 邮箱登陆
+    
+ 站群检索
+    
+
+
+
+地址：宁夏银川市西夏区贺兰山西路489号　邮编：750021  电话：0951-2077800 宁ICP备05002185  Copyright © 宁夏大学  技术支持：网络与信息管理中心
+// 大的图片广告
+// 根据图片创建id,按钮元素等，实际开发建议使用JSON数据类似
+var htmlAdBtn = '';
+$("#jdAdSlide img").each(function(index, image) {
+    var id = "adImage" + index;
+    htmlAdBtn = htmlAdBtn + '<a href="javascript:" class="jd_ad_btn_a" data-rel="'+ id +'">'+ (index + 1) +'</a>';
+    image.id = id;
+});
+$("#jdAdBtn").html(htmlAdBtn).find("a").powerSwitch({
+    eventType: "hover",
+    classAdd: "active",
+    animation: "fade",
+    autoTime: 5000,
+    onSwitch: function(image) {
+        if (!image.attr("src")) {
+            image.attr("src", image.attr("data-src"));  
+        }
+    }
+}).eq(0).trigger("mouseover");
+
+// 便民服务
+$("#servNav a").powerSwitch({
+    classAdd: "active",
+    eventType: "hover",
+    onSwitch: function() {
+        $("#pointLine").animate({ "left": $(this).position().left}, 200);
+    }
+});
+
+
+
+
+
+宁夏大学党建网
+宁夏大学新闻网
+
+
+微信 
+新浪微博 
+宁夏大学党建网 
+宁夏大学新闻网 window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+

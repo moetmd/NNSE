@@ -1,0 +1,120 @@
+“一带一路”文化交流蓝皮书《中阿文化交流发展报告（2016）》研讨会在京...【宁夏大学新闻中心讯 国际教育学院】6月6日下午，由我校国际教育学院和社会科学文献出版社共同主办的“一带一路”文化交流蓝皮书——《中阿文化交流发展报告(2016)》研讨会在北京中国社科文献出版社举行。
+中国国际公共关系协会副会长郭晓勇，中国社会科学院民族学与人类学研究所研究员周庆生，中国现代国际关系研究院副研究员田文林，社会科学文献出版社副社长谢炜，社会科学文献出版社当代世界出版社社长祝德彬，社会科学文献出版社皮书研究院成果评价中心主任张艳丽，社会科学文献出版社人文分社副总编辑李建廷、宁夏大学阿拉伯学院王晓丽等专家以及蓝皮书课题组代表出席和参加了会议。研讨会由我校国际教育学院院长王辉主持。
+
+会议就“一带一路”文化交流蓝皮书框架内容听取政界、学界、出版界有关领导、专家与学者的修改意见。
+会上，谢炜副社长致欢迎词并对蓝皮书的编写谈了自己的意见。报告主编王辉介绍了《中阿文化交流发展报告(2016)》编写意义及框架结构。与会专家学者围绕框架内容从中阿关系、中国对阿外交立场、中阿文化交流的分类和重点等角度对《中阿文化交流发展报告(2016)》提出了建设性修改意见，社会科学文献出版社对蓝皮书的框架、规范、质量、评价等作了重点强调。
+
+
+
+
+《中阿文化交流发展报告(2016)》是我校国际教育学院与社会科学文献出版社共同策划的“‘一带一路”文化交流蓝皮书”丛书的首卷。该报告作为国内首部研究“一带一路”沿线国家的文化交流蓝皮书，获国家文化部重视并立项支持，中文版拟于2017年3月面世，阿文版拟于2017年下半年推出。这是我校国际教育学院与中国社科文献出版社本年度合作的第四个成果。宁夏是“一带一路”的重要战略支点，也是中阿合作的重要战略通道，宁夏大学依托自身特色和优势，以语言规划和文化交流研究服务国家“一带一路”的态势正在形成，研究成果的综合效应正在集聚、扩大。
+ 
+        
+        上一条：宁夏“泰昇祥”杯第二届“互联网+”大学生创新创业大赛区级复赛在我校顺利进行
+
+        下一条：校团委加入“一带一路”大学生公益联盟
+    
+    
+        function dosubc42633()
+        {
+            try{
+                var ua = navigator.userAgent.toLowerCase();
+                if(ua.indexOf("msie 8")>-1)
+                {
+                    window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+                }else{
+                    if (document.all) 
+                    {
+                        window.external.addFavorite(document.location.href, document.title);
+                    }else if(window.sidebar)
+                    {
+                        window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+                    }
+                }
+        
+            }
+            catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+        }
+       【打印】
+               
+function printme()
+{
+document.body.innerHTML=document.getElementById('div1').innerHTML;
+window.print();
+}
+
+          【收藏】  【关闭】
+
+
+
+
+
+
+ 新闻网
+    
+ 信息门户
+    
+ 科研平台
+    
+ 学工系统
+    
+ 本科招生
+    
+ 教务系统
+    
+ 校园宣传审批系统
+    
+ 网络服务
+    
+ 校友网
+    
+ 邮箱登陆
+    
+ 站群检索
+    
+
+
+
+地址：宁夏银川市西夏区贺兰山西路489号　邮编：750021  电话：0951-2077800 宁ICP备05002185  Copyright © 宁夏大学  技术支持：网络与信息管理中心
+// 大的图片广告
+// 根据图片创建id,按钮元素等，实际开发建议使用JSON数据类似
+var htmlAdBtn = '';
+$("#jdAdSlide img").each(function(index, image) {
+    var id = "adImage" + index;
+    htmlAdBtn = htmlAdBtn + '<a href="javascript:" class="jd_ad_btn_a" data-rel="'+ id +'">'+ (index + 1) +'</a>';
+    image.id = id;
+});
+$("#jdAdBtn").html(htmlAdBtn).find("a").powerSwitch({
+    eventType: "hover",
+    classAdd: "active",
+    animation: "fade",
+    autoTime: 5000,
+    onSwitch: function(image) {
+        if (!image.attr("src")) {
+            image.attr("src", image.attr("data-src"));  
+        }
+    }
+}).eq(0).trigger("mouseover");
+
+// 便民服务
+$("#servNav a").powerSwitch({
+    classAdd: "active",
+    eventType: "hover",
+    onSwitch: function() {
+        $("#pointLine").animate({ "left": $(this).position().left}, 200);
+    }
+});
+
+
+
+
+
+宁夏大学党建网
+宁夏大学新闻网
+
+
+微信 
+新浪微博 
+宁夏大学党建网 
+宁夏大学新闻网 window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+

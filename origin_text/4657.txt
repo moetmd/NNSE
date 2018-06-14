@@ -1,0 +1,123 @@
+我校第三届“联通杯”文明交通演讲比赛决赛圆满落幕【宁夏大学新闻中心讯 学生记者 潘妍 高诏诏】为扎实推进校园文明交通志愿服务活动，增强广大学生文明出行意识，创造安全、畅通、文明的道路交通环境，营造遵纪守法、和谐互助的良好社会风尚，由校党委宣传部、学生工作部（学生处）、团委、保卫处和机械工程学院共同举办的宁夏大学第三届“联通杯”文明交通演讲比赛决赛于6月1日下午在文萃校区国防生之家举行。本次演讲比赛的主题是“珍爱生命共筑国梦·文明交通你我同行”。校党委副书记赵利宁及有关部门负责人出席并担任本次比赛评委。
+
+经过初赛、复赛，共有12名选手进入决赛。各位选手各显其能，用自己独特的演讲方式阐释着文明交通的重要性。他们或深情演说，或风趣笑谈，或据实分析，通过一个个惊人的数据、一个个惨痛的教训为我们敲响警钟；即兴演讲中，选手们才思敏捷，侃侃而谈，用理性思维看待当前的各个热门话题，体现一个当代学子应有的社会情怀；附加题环节更是充分展示出各参赛者的日常交通知识储备。慷慨激昂的演讲、饱含正能量的倡议赢得了评委和同学们的阵阵掌声。随后赵智宏老师从“音乐背景、仪容仪态、演讲声音、逻辑、主题、内容、即兴演讲”等七方面做了生动而精彩的点评。
+最后，赵利宁在会上讲话。他指出活动的意义在于保障师生生命财产安全，维护校园安全稳定；确保道路交通安全，促进社会文明建设；全面促成中国梦的实现。他强调，营造和谐社会是每个人的责任，共筑中国梦，需要全民提高文明素质和法律素质，各学院要加强安全教育，开展文明交通志愿服务活动。
+
+经过激烈的角逐，葡萄酒学院的王明敏摘得桂冠，物理与电子电气工程学院的俞俏滟和经济管理学院的马玉兰获得二等奖，外国语学院的谢亚男、机械工程学院的谭胜和政法学院的张钰荣获三等奖。至此，宁夏大学第三届“联通杯”文明交通演讲比赛圆满落幕。
+
+
+（责任编辑：徐静）
+ 
+        
+        上一条：畅谈博者人生感悟学术大道
+								
+								
+								
+									——宁夏大学金波论坛第165期开讲
+
+        下一条：区社科联主席杨占武做客阿拉伯学大讲堂第九讲
+    
+    
+        function dosubc42633()
+        {
+            try{
+                var ua = navigator.userAgent.toLowerCase();
+                if(ua.indexOf("msie 8")>-1)
+                {
+                    window.external.AddToFavoritesBar(document.location.href,document.title,"");//IE8
+                }else{
+                    if (document.all) 
+                    {
+                        window.external.addFavorite(document.location.href, document.title);
+                    }else if(window.sidebar)
+                    {
+                        window.sidebar.addPanel( document.title, document.location.href, "");//firefox
+                    }
+                }
+        
+            }
+            catch (e){alert("无法自动添加到收藏夹，请使用 Ctrl + d 手动添加");}
+        }
+       【打印】
+               
+function printme()
+{
+document.body.innerHTML=document.getElementById('div1').innerHTML;
+window.print();
+}
+
+          【收藏】  【关闭】
+
+
+
+
+
+
+ 新闻网
+    
+ 信息门户
+    
+ 科研平台
+    
+ 学工系统
+    
+ 本科招生
+    
+ 教务系统
+    
+ 校园宣传审批系统
+    
+ 网络服务
+    
+ 校友网
+    
+ 邮箱登陆
+    
+ 站群检索
+    
+
+
+
+地址：宁夏银川市西夏区贺兰山西路489号　邮编：750021  电话：0951-2077800 宁ICP备05002185  Copyright © 宁夏大学  技术支持：网络与信息管理中心
+// 大的图片广告
+// 根据图片创建id,按钮元素等，实际开发建议使用JSON数据类似
+var htmlAdBtn = '';
+$("#jdAdSlide img").each(function(index, image) {
+    var id = "adImage" + index;
+    htmlAdBtn = htmlAdBtn + '<a href="javascript:" class="jd_ad_btn_a" data-rel="'+ id +'">'+ (index + 1) +'</a>';
+    image.id = id;
+});
+$("#jdAdBtn").html(htmlAdBtn).find("a").powerSwitch({
+    eventType: "hover",
+    classAdd: "active",
+    animation: "fade",
+    autoTime: 5000,
+    onSwitch: function(image) {
+        if (!image.attr("src")) {
+            image.attr("src", image.attr("data-src"));  
+        }
+    }
+}).eq(0).trigger("mouseover");
+
+// 便民服务
+$("#servNav a").powerSwitch({
+    classAdd: "active",
+    eventType: "hover",
+    onSwitch: function() {
+        $("#pointLine").animate({ "left": $(this).position().left}, 200);
+    }
+});
+
+
+
+
+
+宁夏大学党建网
+宁夏大学新闻网
+
+
+微信 
+新浪微博 
+宁夏大学党建网 
+宁夏大学新闻网 window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+
