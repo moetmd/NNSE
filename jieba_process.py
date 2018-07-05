@@ -136,11 +136,12 @@ class W2VBase:
 
 
 def __init__():
-
     global w2v_base
     if not w2v_base:
         files, wordlist, weightlist = word_to_vec()
         w2v_base = W2VBase(files, wordlist, weightlist)
 
 
-
+# if __name__ == "__main__":
+#     word_cut()
+#     word_to_vec()

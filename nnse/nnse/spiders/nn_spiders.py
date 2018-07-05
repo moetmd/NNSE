@@ -13,10 +13,10 @@ class NxuNewsSpider(scrapy.Spider):
     def start_requests(self):
         urls = [
             'http://www.nxu.edu.cn/xxyw.htm',
-            'http://www.nxu.edu.cn/xxyw/81.htm'
+            'http://www.nxu.edu.cn/xxyw/84.htm'
         ]
 
-        for i in range(81):
+        for i in range(84):
             urls.append('http://www.nxu.edu.cn/xxyw/' + str(i) + '.htm')
 
         for url in urls:
@@ -54,6 +54,6 @@ class NxuNewsSpider(scrapy.Spider):
         file_content = response.meta['title'] + ''.join(content)
         file_content = file_content.encode('utf-8')
 
-        filename = 'E:/NXUNews_SearchEngine/origin_text/%s.txt' % response.meta['text_id']
+        filename = 'E:/NNSE/origin_text/%s.txt' % response.meta['text_id']
         with open(filename, 'wb+') as f:
             f.write(file_content)
